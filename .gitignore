@@ -1,17 +1,18 @@
-# Logs
-logs
-*.log
-npm-debug.log*
+# 仮想環境
+.venv/
+venv/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Pythonの自動生成ファイル
+__pycache__/
+*.pyc
+.pytest_cache/
 
-# Editor directories and files
+# 機密情報
+.env
+.env.*
+
+# エディタ・OS
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
-*.suo
-*.sw?
