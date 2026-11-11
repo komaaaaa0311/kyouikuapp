@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "Q01001",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "9 + 5 はいくつですか？",
+    "choices": [
+      "13",
+      "14",
+      "16",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "9に5を足すと14です。"
+  },
+  {
+    "id": "Q01002",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "6 - 5 はいくつですか？",
+    "choices": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "6から5を引くと1です。"
+  },
+  {
+    "id": "Q01003",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "26 + 30 はいくつですか？",
+    "choices": [
+      "66",
+      "46",
+      "56",
+      "57"
+    ],
+    "answer": 2,
+    "explanation": "26+30=56です。"
+  },
+  {
+    "id": "Q01004",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "66 - 19 はいくつですか？",
+    "choices": [
+      "48",
+      "47",
+      "57",
+      "37"
+    ],
+    "answer": 1,
+    "explanation": "66から19を引くと47です。"
+  },
+  {
+    "id": "Q01005",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "基礎",
+    "question": "10が4こ集まると、いくつですか？",
+    "choices": [
+      "40",
+      "41",
+      "50",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "10が4こなので、10×4=40です。"
+  },
+  {
+    "id": "Q01006",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "りんごが5こ、みかんが8こあります。全部で何こですか？",
+    "choices": [
+      "12",
+      "13",
+      "15",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "5+8=13なので、全部で13こです。"
+  },
+  {
+    "id": "Q01007",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "あめが14こあり、5こ食べました。残りは何こですか？",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "14-5=9なので、残りは9こです。"
+  },
+  {
+    "id": "Q01008",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "時計",
+    "difficulty": "基礎",
+    "question": "時計が12時00分をさしています。時こくはどれですか？",
+    "choices": [
+      "1時00分",
+      "12時30分",
+      "11時00分",
+      "12時00分"
+    ],
+    "answer": 3,
+    "explanation": "短い針が12時、長い針が12をさしているので、12時00分です。"
+  },
+  {
+    "id": "Q01009",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "8の次の数はいくつですか？",
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "8の次にくる数は9です。"
+  },
+  {
+    "id": "Q01010",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "7の1つ前の数はいくつですか？",
+    "choices": [
+      "5",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "7の1つ前は6です。"
+  },
+  {
+    "id": "Q01011",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "5 + 5 はいくつですか？",
+    "choices": [
+      "10",
+      "9",
+      "12",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "5に5を足すと10です。"
+  },
+  {
+    "id": "Q01012",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "標準",
+    "question": "11 - 6 はいくつですか？",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "11から6を引くと5です。"
+  },
+  {
+    "id": "Q01013",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "28 + 25 はいくつですか？",
+    "choices": [
+      "63",
+      "54",
+      "43",
+      "53"
+    ],
+    "answer": 3,
+    "explanation": "28+25=53です。"
+  },
+  {
+    "id": "Q01014",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "39 - 19 はいくつですか？",
+    "choices": [
+      "21",
+      "10",
+      "30",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "39から19を引くと20です。"
+  },
+  {
+    "id": "Q01015",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "標準",
+    "question": "10が6こ集まると、いくつですか？",
+    "choices": [
+      "50",
+      "61",
+      "70",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "10が6こなので、10×6=60です。"
+  },
+  {
+    "id": "Q01016",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "りんごが8こ、みかんが8こあります。全部で何こですか？",
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "8+8=16なので、全部で16こです。"
+  },
+  {
+    "id": "Q01017",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "標準",
+    "question": "あめが15こあり、2こ食べました。残りは何こですか？",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "15-2=13なので、残りは13こです。"
+  },
+  {
+    "id": "Q01018",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "時計",
+    "difficulty": "標準",
+    "question": "時計が10時30分をさしています。時こくはどれですか？",
+    "choices": [
+      "10時30分",
+      "9時30分",
+      "10時00分",
+      "11時30分"
+    ],
+    "answer": 0,
+    "explanation": "短い針が10時、長い針が6をさしているので、10時30分です。"
+  },
+  {
+    "id": "Q01019",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "標準",
+    "question": "9の次の数はいくつですか？",
+    "choices": [
+      "10",
+      "8",
+      "11",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "9の次にくる数は10です。"
+  },
+  {
+    "id": "Q01020",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "標準",
+    "question": "2の1つ前の数はいくつですか？",
+    "choices": [
+      "1",
+      "0",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "2の1つ前は1です。"
+  },
+  {
+    "id": "Q01021",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "8 + 7 はいくつですか？",
+    "choices": [
+      "16",
+      "17",
+      "14",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "8に7を足すと15です。"
+  },
+  {
+    "id": "Q01022",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "17 - 16 はいくつですか？",
+    "choices": [
+      "2",
+      "3",
+      "0",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "17から16を引くと1です。"
+  },
+  {
+    "id": "Q01023",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "13 + 16 はいくつですか？",
+    "choices": [
+      "19",
+      "39",
+      "30",
+      "29"
+    ],
+    "answer": 3,
+    "explanation": "13+16=29です。"
+  },
+  {
+    "id": "Q01024",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "22 - 6 はいくつですか？",
+    "choices": [
+      "16",
+      "17",
+      "26",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "22から6を引くと16です。"
+  },
+  {
+    "id": "Q01025",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "基礎",
+    "question": "10が7こ集まると、いくつですか？",
+    "choices": [
+      "71",
+      "80",
+      "60",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "10が7こなので、10×7=70です。"
+  },
+  {
+    "id": "Q01026",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "りんごが2こ、みかんが7こあります。全部で何こですか？",
+    "choices": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "2+7=9なので、全部で9こです。"
+  },
+  {
+    "id": "Q01027",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "あめが6こあり、5こ食べました。残りは何こですか？",
+    "choices": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "6-5=1なので、残りは1こです。"
+  },
+  {
+    "id": "Q01028",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "時計",
+    "difficulty": "基礎",
+    "question": "時計が12時30分をさしています。時こくはどれですか？",
+    "choices": [
+      "12時00分",
+      "11時30分",
+      "12時30分",
+      "1時30分"
+    ],
+    "answer": 2,
+    "explanation": "短い針が12時、長い針が6をさしているので、12時30分です。"
+  },
+  {
+    "id": "Q01029",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "3の次の数はいくつですか？",
+    "choices": [
+      "6",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "3の次にくる数は4です。"
+  },
+  {
+    "id": "Q01030",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "3の1つ前の数はいくつですか？",
+    "choices": [
+      "4",
+      "2",
+      "1",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "3の1つ前は2です。"
+  },
+  {
+    "id": "Q01031",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "4 + 7 はいくつですか？",
+    "choices": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "4に7を足すと11です。"
+  },
+  {
+    "id": "Q01032",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "標準",
+    "question": "13 - 11 はいくつですか？",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "13から11を引くと2です。"
+  },
+  {
+    "id": "Q01033",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "19 + 30 はいくつですか？",
+    "choices": [
+      "59",
+      "39",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "19+30=49です。"
+  },
+  {
+    "id": "Q01034",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "32 - 10 はいくつですか？",
+    "choices": [
+      "22",
+      "23",
+      "32",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "32から10を引くと22です。"
+  },
+  {
+    "id": "Q01035",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "標準",
+    "question": "10が7こ集まると、いくつですか？",
+    "choices": [
+      "60",
+      "71",
+      "80",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "10が7こなので、10×7=70です。"
+  },
+  {
+    "id": "Q01036",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "りんごが1こ、みかんが7こあります。全部で何こですか？",
+    "choices": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "1+7=8なので、全部で8こです。"
+  },
+  {
+    "id": "Q01037",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "標準",
+    "question": "あめが10こあり、4こ食べました。残りは何こですか？",
+    "choices": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "10-4=6なので、残りは6こです。"
+  },
+  {
+    "id": "Q01038",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "時計",
+    "difficulty": "標準",
+    "question": "時計が8時30分をさしています。時こくはどれですか？",
+    "choices": [
+      "7時30分",
+      "8時00分",
+      "9時30分",
+      "8時30分"
+    ],
+    "answer": 3,
+    "explanation": "短い針が8時、長い針が6をさしているので、8時30分です。"
+  },
+  {
+    "id": "Q01039",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "標準",
+    "question": "3の次の数はいくつですか？",
+    "choices": [
+      "6",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "3の次にくる数は4です。"
+  },
+  {
+    "id": "Q01040",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "標準",
+    "question": "5の1つ前の数はいくつですか？",
+    "choices": [
+      "3",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "5の1つ前は4です。"
+  },
+  {
+    "id": "Q01041",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "9 + 1 はいくつですか？",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "9に1を足すと10です。"
+  },
+  {
+    "id": "Q01042",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "16 - 15 はいくつですか？",
+    "choices": [
+      "3",
+      "2",
+      "0",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "16から15を引くと1です。"
+  },
+  {
+    "id": "Q01043",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "10 + 29 はいくつですか？",
+    "choices": [
+      "49",
+      "29",
+      "39",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "10+29=39です。"
+  },
+  {
+    "id": "Q01044",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "基礎",
+    "question": "55 - 16 はいくつですか？",
+    "choices": [
+      "40",
+      "49",
+      "39",
+      "29"
+    ],
+    "answer": 2,
+    "explanation": "55から16を引くと39です。"
+  },
+  {
+    "id": "Q01045",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "基礎",
+    "question": "10が3こ集まると、いくつですか？",
+    "choices": [
+      "20",
+      "31",
+      "40",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "10が3こなので、10×3=30です。"
+  },
+  {
+    "id": "Q01046",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "基礎",
+    "question": "りんごが6こ、みかんが7こあります。全部で何こですか？",
+    "choices": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "6+7=13なので、全部で13こです。"
+  },
+  {
+    "id": "Q01047",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "基礎",
+    "question": "あめが12こあり、1こ食べました。残りは何こですか？",
+    "choices": [
+      "13",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "12-1=11なので、残りは11こです。"
+  },
+  {
+    "id": "Q01048",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "時計",
+    "difficulty": "基礎",
+    "question": "時計が6時00分をさしています。時こくはどれですか？",
+    "choices": [
+      "5時00分",
+      "6時30分",
+      "6時00分",
+      "7時00分"
+    ],
+    "answer": 2,
+    "explanation": "短い針が6時、長い針が12をさしているので、6時00分です。"
+  },
+  {
+    "id": "Q01049",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "6の次の数はいくつですか？",
+    "choices": [
+      "8",
+      "5",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "6の次にくる数は7です。"
+  },
+  {
+    "id": "Q01050",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "数の順番",
+    "difficulty": "基礎",
+    "question": "6の1つ前の数はいくつですか？",
+    "choices": [
+      "5",
+      "7",
+      "8",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "6の1つ前は5です。"
+  },
+  {
+    "id": "Q01051",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "8 + 6 はいくつですか？",
+    "choices": [
+      "14",
+      "16",
+      "13",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "8に6を足すと14です。"
+  },
+  {
+    "id": "Q01052",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "ひき算",
+    "difficulty": "標準",
+    "question": "16 - 13 はいくつですか？",
+    "choices": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "16から13を引くと3です。"
+  },
+  {
+    "id": "Q01053",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "22 + 37 はいくつですか？",
+    "choices": [
+      "69",
+      "49",
+      "59",
+      "60"
+    ],
+    "answer": 2,
+    "explanation": "22+37=59です。"
+  },
+  {
+    "id": "Q01054",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "2けたの数",
+    "difficulty": "標準",
+    "question": "31 - 14 はいくつですか？",
+    "choices": [
+      "27",
+      "18",
+      "7",
+      "17"
+    ],
+    "answer": 3,
+    "explanation": "31から14を引くと17です。"
+  },
+  {
+    "id": "Q01055",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "10のまとまり",
+    "difficulty": "標準",
+    "question": "10が3こ集まると、いくつですか？",
+    "choices": [
+      "31",
+      "30",
+      "40",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "10が3こなので、10×3=30です。"
+  },
+  {
+    "id": "Q01056",
+    "grade": "小学1年生",
+    "subject": "算数",
+    "unit": "たし算",
+    "difficulty": "標準",
+    "question": "りんごが7こ、みかんが9こあります。全部で何こですか？",
+    "choices": [
+      "15",
+      "16",
+      "18",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "7+9=16なので、全部で16こです。"
+  },
+  {
+    "id": "Q02001",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "69 + 32 はいくつですか？",
+    "choices": [
+      "101",
+      "91",
+      "111",
+      "102"
+    ],
+    "answer": 0,
+    "explanation": "一の位と十の位に分けて計算すると、69+32=101です。"
+  },
+  {
+    "id": "Q02002",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "66 - 35 はいくつですか？",
+    "choices": [
+      "21",
+      "32",
+      "41",
+      "31"
+    ],
+    "answer": 3,
+    "explanation": "66から35を引くと31です。"
+  },
+  {
+    "id": "Q02003",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "88 + 61 はいくつですか？",
+    "choices": [
+      "159",
+      "149",
+      "150",
+      "139"
+    ],
+    "answer": 1,
+    "explanation": "一の位と十の位に分けて計算すると、88+61=149です。"
+  },
+  {
+    "id": "Q02004",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "79 - 30 はいくつですか？",
+    "choices": [
+      "39",
+      "59",
+      "50",
+      "49"
+    ],
+    "answer": 3,
+    "explanation": "79から30を引くと49です。"
+  },
+  {
+    "id": "Q02005",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "7 × 9 はいくつですか？",
+    "choices": [
+      "72",
+      "63",
+      "70",
+      "56"
+    ],
+    "answer": 1,
+    "explanation": "7が9こ分なので、7×9=63です。"
+  },
+  {
+    "id": "Q02006",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "2 × 2 はいくつですか？",
+    "choices": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "2が2こ分なので、2×2=4です。"
+  },
+  {
+    "id": "Q02007",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "8 × 8 はいくつですか？",
+    "choices": [
+      "56",
+      "64",
+      "72",
+      "65"
+    ],
+    "answer": 1,
+    "explanation": "8が8こ分なので、8×8=64です。"
+  },
+  {
+    "id": "Q02008",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九のわり算",
+    "difficulty": "基礎",
+    "question": "20 ÷ 4 はいくつですか？",
+    "choices": [
+      "7",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "4×5=20なので、20÷4=5です。"
+  },
+  {
+    "id": "Q02009",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "長さ",
+    "difficulty": "基礎",
+    "question": "1 cm は何 mm ですか？",
+    "choices": [
+      "20",
+      "1",
+      "10",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "1 cm = 10 mm なので、1 cm = 10 mmです。"
+  },
+  {
+    "id": "Q02010",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "時こくと時間",
+    "difficulty": "基礎",
+    "question": "9時の1時間後は何時ですか？",
+    "choices": [
+      "8時",
+      "11時",
+      "10時",
+      "9時"
+    ],
+    "answer": 2,
+    "explanation": "9時から1時間進むと10時です。"
+  },
+  {
+    "id": "Q02011",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "30 + 27 はいくつですか？",
+    "choices": [
+      "58",
+      "67",
+      "47",
+      "57"
+    ],
+    "answer": 3,
+    "explanation": "一の位と十の位に分けて計算すると、30+27=57です。"
+  },
+  {
+    "id": "Q02012",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "74 - 39 はいくつですか？",
+    "choices": [
+      "25",
+      "35",
+      "45",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "74から39を引くと35です。"
+  },
+  {
+    "id": "Q02013",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "20 + 33 はいくつですか？",
+    "choices": [
+      "63",
+      "53",
+      "43",
+      "54"
+    ],
+    "answer": 1,
+    "explanation": "一の位と十の位に分けて計算すると、20+33=53です。"
+  },
+  {
+    "id": "Q02014",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "67 - 51 はいくつですか？",
+    "choices": [
+      "6",
+      "17",
+      "16",
+      "26"
+    ],
+    "answer": 2,
+    "explanation": "67から51を引くと16です。"
+  },
+  {
+    "id": "Q02015",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "3 × 2 はいくつですか？",
+    "choices": [
+      "8",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "3が2こ分なので、3×2=6です。"
+  },
+  {
+    "id": "Q02016",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "3 × 2 はいくつですか？",
+    "choices": [
+      "9",
+      "8",
+      "6",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "3が2こ分なので、3×2=6です。"
+  },
+  {
+    "id": "Q02017",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "8 × 5 はいくつですか？",
+    "choices": [
+      "48",
+      "45",
+      "40",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "8が5こ分なので、8×5=40です。"
+  },
+  {
+    "id": "Q02018",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九のわり算",
+    "difficulty": "標準",
+    "question": "63 ÷ 9 はいくつですか？",
+    "choices": [
+      "7",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "9×7=63なので、63÷9=7です。"
+  },
+  {
+    "id": "Q02019",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "長さ",
+    "difficulty": "標準",
+    "question": "5 cm は何 mm ですか？",
+    "choices": [
+      "500",
+      "50",
+      "60",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "1 cm = 10 mm なので、5 cm = 50 mmです。"
+  },
+  {
+    "id": "Q02020",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "時こくと時間",
+    "difficulty": "標準",
+    "question": "12時の1時間後は何時ですか？",
+    "choices": [
+      "11時",
+      "12時",
+      "14時",
+      "13時"
+    ],
+    "answer": 3,
+    "explanation": "12時から1時間進むと13時です。"
+  },
+  {
+    "id": "Q02021",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "79 + 43 はいくつですか？",
+    "choices": [
+      "132",
+      "122",
+      "123",
+      "112"
+    ],
+    "answer": 1,
+    "explanation": "一の位と十の位に分けて計算すると、79+43=122です。"
+  },
+  {
+    "id": "Q02022",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "54 - 35 はいくつですか？",
+    "choices": [
+      "9",
+      "20",
+      "29",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "54から35を引くと19です。"
+  },
+  {
+    "id": "Q02023",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "42 + 24 はいくつですか？",
+    "choices": [
+      "66",
+      "56",
+      "67",
+      "76"
+    ],
+    "answer": 0,
+    "explanation": "一の位と十の位に分けて計算すると、42+24=66です。"
+  },
+  {
+    "id": "Q02024",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "47 - 29 はいくつですか？",
+    "choices": [
+      "18",
+      "19",
+      "28",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "47から29を引くと18です。"
+  },
+  {
+    "id": "Q02025",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "9 × 7 はいくつですか？",
+    "choices": [
+      "72",
+      "63",
+      "54",
+      "70"
+    ],
+    "answer": 1,
+    "explanation": "9が7こ分なので、9×7=63です。"
+  },
+  {
+    "id": "Q02026",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "3 × 7 はいくつですか？",
+    "choices": [
+      "18",
+      "24",
+      "21",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "3が7こ分なので、3×7=21です。"
+  },
+  {
+    "id": "Q02027",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "5 × 2 はいくつですか？",
+    "choices": [
+      "15",
+      "5",
+      "12",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "5が2こ分なので、5×2=10です。"
+  },
+  {
+    "id": "Q02028",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九のわり算",
+    "difficulty": "基礎",
+    "question": "8 ÷ 2 はいくつですか？",
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "2×4=8なので、8÷2=4です。"
+  },
+  {
+    "id": "Q02029",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "長さ",
+    "difficulty": "基礎",
+    "question": "3 cm は何 mm ですか？",
+    "choices": [
+      "40",
+      "3",
+      "30",
+      "300"
+    ],
+    "answer": 2,
+    "explanation": "1 cm = 10 mm なので、3 cm = 30 mmです。"
+  },
+  {
+    "id": "Q02030",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "時こくと時間",
+    "difficulty": "基礎",
+    "question": "12時の1時間後は何時ですか？",
+    "choices": [
+      "12時",
+      "14時",
+      "13時",
+      "11時"
+    ],
+    "answer": 2,
+    "explanation": "12時から1時間進むと13時です。"
+  },
+  {
+    "id": "Q02031",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "45 + 28 はいくつですか？",
+    "choices": [
+      "73",
+      "63",
+      "83",
+      "74"
+    ],
+    "answer": 0,
+    "explanation": "一の位と十の位に分けて計算すると、45+28=73です。"
+  },
+  {
+    "id": "Q02032",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "86 - 77 はいくつですか？",
+    "choices": [
+      "9",
+      "-1",
+      "10",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "86から77を引くと9です。"
+  },
+  {
+    "id": "Q02033",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "21 + 35 はいくつですか？",
+    "choices": [
+      "57",
+      "56",
+      "46",
+      "66"
+    ],
+    "answer": 1,
+    "explanation": "一の位と十の位に分けて計算すると、21+35=56です。"
+  },
+  {
+    "id": "Q02034",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "72 - 40 はいくつですか？",
+    "choices": [
+      "22",
+      "33",
+      "32",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "72から40を引くと32です。"
+  },
+  {
+    "id": "Q02035",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "7 × 9 はいくつですか？",
+    "choices": [
+      "63",
+      "72",
+      "70",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "7が9こ分なので、7×9=63です。"
+  },
+  {
+    "id": "Q02036",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "8 × 2 はいくつですか？",
+    "choices": [
+      "24",
+      "8",
+      "16",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "8が2こ分なので、8×2=16です。"
+  },
+  {
+    "id": "Q02037",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "7 × 4 はいくつですか？",
+    "choices": [
+      "35",
+      "28",
+      "21",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "7が4こ分なので、7×4=28です。"
+  },
+  {
+    "id": "Q02038",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九のわり算",
+    "difficulty": "標準",
+    "question": "8 ÷ 4 はいくつですか？",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "4×2=8なので、8÷4=2です。"
+  },
+  {
+    "id": "Q02039",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "長さ",
+    "difficulty": "標準",
+    "question": "1 cm は何 mm ですか？",
+    "choices": [
+      "100",
+      "10",
+      "1",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "1 cm = 10 mm なので、1 cm = 10 mmです。"
+  },
+  {
+    "id": "Q02040",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "時こくと時間",
+    "difficulty": "標準",
+    "question": "5時の1時間後は何時ですか？",
+    "choices": [
+      "7時",
+      "6時",
+      "5時",
+      "4時"
+    ],
+    "answer": 1,
+    "explanation": "5時から1時間進むと6時です。"
+  },
+  {
+    "id": "Q02041",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "45 + 61 はいくつですか？",
+    "choices": [
+      "106",
+      "96",
+      "107",
+      "116"
+    ],
+    "answer": 0,
+    "explanation": "一の位と十の位に分けて計算すると、45+61=106です。"
+  },
+  {
+    "id": "Q02042",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "63 - 40 はいくつですか？",
+    "choices": [
+      "33",
+      "13",
+      "23",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "63から40を引くと23です。"
+  },
+  {
+    "id": "Q02043",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "基礎",
+    "question": "85 + 58 はいくつですか？",
+    "choices": [
+      "133",
+      "153",
+      "144",
+      "143"
+    ],
+    "answer": 3,
+    "explanation": "一の位と十の位に分けて計算すると、85+58=143です。"
+  },
+  {
+    "id": "Q02044",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "基礎",
+    "question": "79 - 75 はいくつですか？",
+    "choices": [
+      "-6",
+      "5",
+      "14",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "79から75を引くと4です。"
+  },
+  {
+    "id": "Q02045",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "2 × 8 はいくつですか？",
+    "choices": [
+      "14",
+      "18",
+      "16",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "2が8こ分なので、2×8=16です。"
+  },
+  {
+    "id": "Q02046",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "3 × 8 はいくつですか？",
+    "choices": [
+      "24",
+      "32",
+      "21",
+      "27"
+    ],
+    "answer": 0,
+    "explanation": "3が8こ分なので、3×8=24です。"
+  },
+  {
+    "id": "Q02047",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "基礎",
+    "question": "8 × 2 はいくつですか？",
+    "choices": [
+      "8",
+      "24",
+      "16",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "8が2こ分なので、8×2=16です。"
+  },
+  {
+    "id": "Q02048",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九のわり算",
+    "difficulty": "基礎",
+    "question": "32 ÷ 4 はいくつですか？",
+    "choices": [
+      "4",
+      "7",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "4×8=32なので、32÷4=8です。"
+  },
+  {
+    "id": "Q02049",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "長さ",
+    "difficulty": "基礎",
+    "question": "5 cm は何 mm ですか？",
+    "choices": [
+      "60",
+      "500",
+      "5",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "1 cm = 10 mm なので、5 cm = 50 mmです。"
+  },
+  {
+    "id": "Q02050",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "時こくと時間",
+    "difficulty": "基礎",
+    "question": "3時の1時間後は何時ですか？",
+    "choices": [
+      "3時",
+      "5時",
+      "4時",
+      "2時"
+    ],
+    "answer": 2,
+    "explanation": "3時から1時間進むと4時です。"
+  },
+  {
+    "id": "Q02051",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "46 + 75 はいくつですか？",
+    "choices": [
+      "111",
+      "122",
+      "131",
+      "121"
+    ],
+    "answer": 3,
+    "explanation": "一の位と十の位に分けて計算すると、46+75=121です。"
+  },
+  {
+    "id": "Q02052",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "57 - 21 はいくつですか？",
+    "choices": [
+      "37",
+      "36",
+      "46",
+      "26"
+    ],
+    "answer": 1,
+    "explanation": "57から21を引くと36です。"
+  },
+  {
+    "id": "Q02053",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのたし算",
+    "difficulty": "標準",
+    "question": "79 + 37 はいくつですか？",
+    "choices": [
+      "106",
+      "116",
+      "126",
+      "117"
+    ],
+    "answer": 1,
+    "explanation": "一の位と十の位に分けて計算すると、79+37=116です。"
+  },
+  {
+    "id": "Q02054",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "2けたのひき算",
+    "difficulty": "標準",
+    "question": "78 - 25 はいくつですか？",
+    "choices": [
+      "63",
+      "43",
+      "53",
+      "54"
+    ],
+    "answer": 2,
+    "explanation": "78から25を引くと53です。"
+  },
+  {
+    "id": "Q02055",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "6 × 7 はいくつですか？",
+    "choices": [
+      "42",
+      "49",
+      "36",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "6が7こ分なので、6×7=42です。"
+  },
+  {
+    "id": "Q02056",
+    "grade": "小学2年生",
+    "subject": "算数",
+    "unit": "九九",
+    "difficulty": "標準",
+    "question": "9 × 7 はいくつですか？",
+    "choices": [
+      "70",
+      "54",
+      "72",
+      "63"
+    ],
+    "answer": 3,
+    "explanation": "9が7こ分なので、9×7=63です。"
+  },
+  {
+    "id": "Q03001",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "37 × 7 はいくつですか？",
+    "choices": [
+      "269",
+      "266",
+      "259",
+      "252"
+    ],
+    "answer": 2,
+    "explanation": "37を7倍すると259です。"
+  },
+  {
+    "id": "Q03002",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "66 × 2 はいくつですか？",
+    "choices": [
+      "142",
+      "130",
+      "134",
+      "132"
+    ],
+    "answer": 3,
+    "explanation": "66を2倍すると132です。"
+  },
+  {
+    "id": "Q03003",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "75 × 5 はいくつですか？",
+    "choices": [
+      "380",
+      "385",
+      "370",
+      "375"
+    ],
+    "answer": 3,
+    "explanation": "75を5倍すると375です。"
+  },
+  {
+    "id": "Q03004",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "225 ÷ 5 はいくつですか？",
+    "choices": [
+      "44",
+      "50",
+      "46",
+      "45"
+    ],
+    "answer": 3,
+    "explanation": "5×45=225なので、答えは45です。"
+  },
+  {
+    "id": "Q03005",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "52 ÷ 4 はいくつですか？",
+    "choices": [
+      "17",
+      "13",
+      "14",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "4×13=52なので、答えは13です。"
+  },
+  {
+    "id": "Q03006",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "372 ÷ 6 はいくつですか？",
+    "choices": [
+      "62",
+      "68",
+      "61",
+      "63"
+    ],
+    "answer": 0,
+    "explanation": "6×62=372なので、答えは62です。"
+  },
+  {
+    "id": "Q03007",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "865 + 806 はいくつですか？",
+    "choices": [
+      "1571",
+      "1671",
+      "1771",
+      "1681"
+    ],
+    "answer": 1,
+    "explanation": "865+806=1671です。"
+  },
+  {
+    "id": "Q03008",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "1/ 7 が3こ集まると、どの分数ですか？",
+    "choices": [
+      "3/8",
+      "4/7",
+      "3/7",
+      "7/3"
+    ],
+    "answer": 2,
+    "explanation": "同じ大きさの3個分なので、1/7×3=3/7です。"
+  },
+  {
+    "id": "Q03009",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "まわりの長さ",
+    "difficulty": "基礎",
+    "question": "たて8 cm、横9 cmの長方形のまわりの長さは何cmですか？",
+    "choices": [
+      "17",
+      "34",
+      "36",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "長方形のまわりの長さは(たて+横)×2です。( 8+9 )×2=34 cmです。"
+  },
+  {
+    "id": "Q03010",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "暗算",
+    "difficulty": "基礎",
+    "question": "6×2 + 4 はいくつですか？",
+    "choices": [
+      "11",
+      "16",
+      "12",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "6×2=12、12+4=16です。"
+  },
+  {
+    "id": "Q03011",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "90 × 9 はいくつですか？",
+    "choices": [
+      "810",
+      "820",
+      "819",
+      "801"
+    ],
+    "answer": 0,
+    "explanation": "90を9倍すると810です。"
+  },
+  {
+    "id": "Q03012",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "81 × 6 はいくつですか？",
+    "choices": [
+      "496",
+      "486",
+      "480",
+      "492"
+    ],
+    "answer": 1,
+    "explanation": "81を6倍すると486です。"
+  },
+  {
+    "id": "Q03013",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "40 × 6 はいくつですか？",
+    "choices": [
+      "234",
+      "240",
+      "246",
+      "250"
+    ],
+    "answer": 1,
+    "explanation": "40を6倍すると240です。"
+  },
+  {
+    "id": "Q03014",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "328 ÷ 4 はいくつですか？",
+    "choices": [
+      "86",
+      "83",
+      "82",
+      "81"
+    ],
+    "answer": 2,
+    "explanation": "4×82=328なので、答えは82です。"
+  },
+  {
+    "id": "Q03015",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "195 ÷ 5 はいくつですか？",
+    "choices": [
+      "44",
+      "39",
+      "40",
+      "38"
+    ],
+    "answer": 1,
+    "explanation": "5×39=195なので、答えは39です。"
+  },
+  {
+    "id": "Q03016",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "490 ÷ 5 はいくつですか？",
+    "choices": [
+      "99",
+      "98",
+      "97",
+      "103"
+    ],
+    "answer": 1,
+    "explanation": "5×98=490なので、答えは98です。"
+  },
+  {
+    "id": "Q03017",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "389 + 292 はいくつですか？",
+    "choices": [
+      "691",
+      "781",
+      "581",
+      "681"
+    ],
+    "answer": 3,
+    "explanation": "389+292=681です。"
+  },
+  {
+    "id": "Q03018",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "標準",
+    "question": "1/ 8 が9こ集まると、どの分数ですか？",
+    "choices": [
+      "8/9",
+      "9/9",
+      "9/8",
+      "10/8"
+    ],
+    "answer": 2,
+    "explanation": "同じ大きさの9個分なので、1/8×9=9/8です。"
+  },
+  {
+    "id": "Q03019",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "まわりの長さ",
+    "difficulty": "標準",
+    "question": "たて15 cm、横11 cmの長方形のまわりの長さは何cmですか？",
+    "choices": [
+      "26",
+      "50",
+      "54",
+      "52"
+    ],
+    "answer": 3,
+    "explanation": "長方形のまわりの長さは(たて+横)×2です。( 15+11 )×2=52 cmです。"
+  },
+  {
+    "id": "Q03020",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "暗算",
+    "difficulty": "標準",
+    "question": "6×2 + 7 はいくつですか？",
+    "choices": [
+      "15",
+      "13",
+      "14",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "6×2=12、12+7=19です。"
+  },
+  {
+    "id": "Q03021",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "13 × 9 はいくつですか？",
+    "choices": [
+      "108",
+      "117",
+      "127",
+      "126"
+    ],
+    "answer": 1,
+    "explanation": "13を9倍すると117です。"
+  },
+  {
+    "id": "Q03022",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "16 × 4 はいくつですか？",
+    "choices": [
+      "68",
+      "60",
+      "74",
+      "64"
+    ],
+    "answer": 3,
+    "explanation": "16を4倍すると64です。"
+  },
+  {
+    "id": "Q03023",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "14 × 3 はいくつですか？",
+    "choices": [
+      "39",
+      "42",
+      "52",
+      "45"
+    ],
+    "answer": 1,
+    "explanation": "14を3倍すると42です。"
+  },
+  {
+    "id": "Q03024",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "390 ÷ 5 はいくつですか？",
+    "choices": [
+      "83",
+      "77",
+      "78",
+      "79"
+    ],
+    "answer": 2,
+    "explanation": "5×78=390なので、答えは78です。"
+  },
+  {
+    "id": "Q03025",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "106 ÷ 2 はいくつですか？",
+    "choices": [
+      "55",
+      "53",
+      "54",
+      "52"
+    ],
+    "answer": 1,
+    "explanation": "2×53=106なので、答えは53です。"
+  },
+  {
+    "id": "Q03026",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "564 ÷ 6 はいくつですか？",
+    "choices": [
+      "94",
+      "100",
+      "95",
+      "93"
+    ],
+    "answer": 0,
+    "explanation": "6×94=564なので、答えは94です。"
+  },
+  {
+    "id": "Q03027",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "502 + 289 はいくつですか？",
+    "choices": [
+      "691",
+      "801",
+      "891",
+      "791"
+    ],
+    "answer": 3,
+    "explanation": "502+289=791です。"
+  },
+  {
+    "id": "Q03028",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "1/ 8 が2こ集まると、どの分数ですか？",
+    "choices": [
+      "3/8",
+      "8/2",
+      "2/9",
+      "2/8"
+    ],
+    "answer": 3,
+    "explanation": "同じ大きさの2個分なので、1/8×2=2/8です。"
+  },
+  {
+    "id": "Q03029",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "まわりの長さ",
+    "difficulty": "基礎",
+    "question": "たて7 cm、横7 cmの長方形のまわりの長さは何cmですか？",
+    "choices": [
+      "30",
+      "26",
+      "14",
+      "28"
+    ],
+    "answer": 3,
+    "explanation": "長方形のまわりの長さは(たて+横)×2です。( 7+7 )×2=28 cmです。"
+  },
+  {
+    "id": "Q03030",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "暗算",
+    "difficulty": "基礎",
+    "question": "6×2 + 5 はいくつですか？",
+    "choices": [
+      "17",
+      "11",
+      "13",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "6×2=12、12+5=17です。"
+  },
+  {
+    "id": "Q03031",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "37 × 8 はいくつですか？",
+    "choices": [
+      "306",
+      "288",
+      "304",
+      "296"
+    ],
+    "answer": 3,
+    "explanation": "37を8倍すると296です。"
+  },
+  {
+    "id": "Q03032",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "54 × 4 はいくつですか？",
+    "choices": [
+      "212",
+      "216",
+      "226",
+      "220"
+    ],
+    "answer": 1,
+    "explanation": "54を4倍すると216です。"
+  },
+  {
+    "id": "Q03033",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "58 × 6 はいくつですか？",
+    "choices": [
+      "342",
+      "348",
+      "354",
+      "358"
+    ],
+    "answer": 1,
+    "explanation": "58を6倍すると348です。"
+  },
+  {
+    "id": "Q03034",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "285 ÷ 5 はいくつですか？",
+    "choices": [
+      "56",
+      "58",
+      "57",
+      "62"
+    ],
+    "answer": 2,
+    "explanation": "5×57=285なので、答えは57です。"
+  },
+  {
+    "id": "Q03035",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "558 ÷ 9 はいくつですか？",
+    "choices": [
+      "71",
+      "61",
+      "63",
+      "62"
+    ],
+    "answer": 3,
+    "explanation": "9×62=558なので、答えは62です。"
+  },
+  {
+    "id": "Q03036",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "522 ÷ 9 はいくつですか？",
+    "choices": [
+      "67",
+      "59",
+      "58",
+      "57"
+    ],
+    "answer": 2,
+    "explanation": "9×58=522なので、答えは58です。"
+  },
+  {
+    "id": "Q03037",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "879 + 195 はいくつですか？",
+    "choices": [
+      "1084",
+      "1074",
+      "974",
+      "1174"
+    ],
+    "answer": 1,
+    "explanation": "879+195=1074です。"
+  },
+  {
+    "id": "Q03038",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "標準",
+    "question": "1/ 6 が3こ集まると、どの分数ですか？",
+    "choices": [
+      "6/3",
+      "3/6",
+      "4/6",
+      "3/7"
+    ],
+    "answer": 1,
+    "explanation": "同じ大きさの3個分なので、1/6×3=3/6です。"
+  },
+  {
+    "id": "Q03039",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "まわりの長さ",
+    "difficulty": "標準",
+    "question": "たて13 cm、横9 cmの長方形のまわりの長さは何cmですか？",
+    "choices": [
+      "42",
+      "44",
+      "22",
+      "46"
+    ],
+    "answer": 1,
+    "explanation": "長方形のまわりの長さは(たて+横)×2です。( 13+9 )×2=44 cmです。"
+  },
+  {
+    "id": "Q03040",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "暗算",
+    "difficulty": "標準",
+    "question": "3×2 + 3 はいくつですか？",
+    "choices": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "3×2=6、6+3=9です。"
+  },
+  {
+    "id": "Q03041",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "74 × 7 はいくつですか？",
+    "choices": [
+      "511",
+      "518",
+      "528",
+      "525"
+    ],
+    "answer": 1,
+    "explanation": "74を7倍すると518です。"
+  },
+  {
+    "id": "Q03042",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "42 × 2 はいくつですか？",
+    "choices": [
+      "84",
+      "82",
+      "94",
+      "86"
+    ],
+    "answer": 0,
+    "explanation": "42を2倍すると84です。"
+  },
+  {
+    "id": "Q03043",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "66 × 3 はいくつですか？",
+    "choices": [
+      "201",
+      "198",
+      "208",
+      "195"
+    ],
+    "answer": 1,
+    "explanation": "66を3倍すると198です。"
+  },
+  {
+    "id": "Q03044",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "420 ÷ 6 はいくつですか？",
+    "choices": [
+      "71",
+      "69",
+      "76",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "6×70=420なので、答えは70です。"
+  },
+  {
+    "id": "Q03045",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "54 ÷ 3 はいくつですか？",
+    "choices": [
+      "18",
+      "17",
+      "21",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "3×18=54なので、答えは18です。"
+  },
+  {
+    "id": "Q03046",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "640 ÷ 8 はいくつですか？",
+    "choices": [
+      "81",
+      "80",
+      "79",
+      "88"
+    ],
+    "answer": 1,
+    "explanation": "8×80=640なので、答えは80です。"
+  },
+  {
+    "id": "Q03047",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "442 + 393 はいくつですか？",
+    "choices": [
+      "735",
+      "835",
+      "935",
+      "845"
+    ],
+    "answer": 1,
+    "explanation": "442+393=835です。"
+  },
+  {
+    "id": "Q03048",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "1/ 5 が3こ集まると、どの分数ですか？",
+    "choices": [
+      "3/6",
+      "5/3",
+      "3/5",
+      "4/5"
+    ],
+    "answer": 2,
+    "explanation": "同じ大きさの3個分なので、1/5×3=3/5です。"
+  },
+  {
+    "id": "Q03049",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "まわりの長さ",
+    "difficulty": "基礎",
+    "question": "たて12 cm、横4 cmの長方形のまわりの長さは何cmですか？",
+    "choices": [
+      "16",
+      "34",
+      "30",
+      "32"
+    ],
+    "answer": 3,
+    "explanation": "長方形のまわりの長さは(たて+横)×2です。( 12+4 )×2=32 cmです。"
+  },
+  {
+    "id": "Q03050",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "暗算",
+    "difficulty": "基礎",
+    "question": "8×2 + 6 はいくつですか？",
+    "choices": [
+      "22",
+      "14",
+      "16",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "8×2=16、16+6=22です。"
+  },
+  {
+    "id": "Q03051",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "66 × 8 はいくつですか？",
+    "choices": [
+      "536",
+      "528",
+      "538",
+      "520"
+    ],
+    "answer": 1,
+    "explanation": "66を8倍すると528です。"
+  },
+  {
+    "id": "Q03052",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "67 × 8 はいくつですか？",
+    "choices": [
+      "528",
+      "544",
+      "536",
+      "546"
+    ],
+    "answer": 2,
+    "explanation": "67を8倍すると536です。"
+  },
+  {
+    "id": "Q03053",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "18 × 2 はいくつですか？",
+    "choices": [
+      "38",
+      "34",
+      "36",
+      "46"
+    ],
+    "answer": 2,
+    "explanation": "18を2倍すると36です。"
+  },
+  {
+    "id": "Q03054",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "140 ÷ 5 はいくつですか？",
+    "choices": [
+      "28",
+      "29",
+      "27",
+      "33"
+    ],
+    "answer": 0,
+    "explanation": "5×28=140なので、答えは28です。"
+  },
+  {
+    "id": "Q03055",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "252 ÷ 9 はいくつですか？",
+    "choices": [
+      "37",
+      "28",
+      "27",
+      "29"
+    ],
+    "answer": 1,
+    "explanation": "9×28=252なので、答えは28です。"
+  },
+  {
+    "id": "Q03056",
+    "grade": "小学3年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "456 ÷ 6 はいくつですか？",
+    "choices": [
+      "77",
+      "76",
+      "75",
+      "82"
+    ],
+    "answer": 1,
+    "explanation": "6×76=456なので、答えは76です。"
+  },
+  {
+    "id": "Q04001",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "4085 + 1715 はいくつですか？",
+    "choices": [
+      "5900",
+      "5700",
+      "5800",
+      "5810"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえてたすと5800です。"
+  },
+  {
+    "id": "Q04002",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "1178 + 2687 はいくつですか？",
+    "choices": [
+      "3965",
+      "3765",
+      "3865",
+      "3875"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえてたすと3865です。"
+  },
+  {
+    "id": "Q04003",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "6897 - 240 はいくつですか？",
+    "choices": [
+      "6667",
+      "6557",
+      "6757",
+      "6657"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえて引くと6657です。"
+  },
+  {
+    "id": "Q04004",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "7170 - 391 はいくつですか？",
+    "choices": [
+      "6679",
+      "6779",
+      "6789",
+      "6879"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえて引くと6779です。"
+  },
+  {
+    "id": "Q04005",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "945 × 17 はいくつですか？",
+    "choices": [
+      "16165",
+      "15120",
+      "16082",
+      "16065"
+    ],
+    "answer": 3,
+    "explanation": "945×17=16065です。"
+  },
+  {
+    "id": "Q04006",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "156 × 64 はいくつですか？",
+    "choices": [
+      "10084",
+      "9984",
+      "10048",
+      "9828"
+    ],
+    "answer": 1,
+    "explanation": "156×64=9984です。"
+  },
+  {
+    "id": "Q04007",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "1434 ÷ 2 はいくつですか？",
+    "choices": [
+      "718",
+      "717",
+      "707",
+      "727"
+    ],
+    "answer": 1,
+    "explanation": "2×717=1434なので、答えは717です。"
+  },
+  {
+    "id": "Q04008",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "小数",
+    "difficulty": "基礎",
+    "question": "0.8 + 0.3 はいくつですか？",
+    "choices": [
+      "0.24",
+      "0.34",
+      "0.23",
+      "2.4"
+    ],
+    "answer": 0,
+    "explanation": "小数点の位置をそろえて計算します。"
+  },
+  {
+    "id": "Q04009",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "面積",
+    "difficulty": "基礎",
+    "question": "たて3 cm、横2 cmの長方形の面積は何cm²ですか？",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "長方形の面積は、たて×横です。3×2=6 cm²です。"
+  },
+  {
+    "id": "Q04010",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "角度",
+    "difficulty": "基礎",
+    "question": "180°は直角（90°）の何倍ですか？",
+    "choices": [
+      "2倍（別の値1）",
+      "3倍",
+      "1/2倍",
+      "2倍"
+    ],
+    "answer": 3,
+    "explanation": "180÷90=2なので、180°は直角の2倍です。"
+  },
+  {
+    "id": "Q04011",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "8852 + 8809 はいくつですか？",
+    "choices": [
+      "17561",
+      "17661",
+      "17671",
+      "17761"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえてたすと17661です。"
+  },
+  {
+    "id": "Q04012",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "4761 + 7834 はいくつですか？",
+    "choices": [
+      "12495",
+      "12695",
+      "12605",
+      "12595"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえてたすと12595です。"
+  },
+  {
+    "id": "Q04013",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "5245 - 1280 はいくつですか？",
+    "choices": [
+      "3975",
+      "3965",
+      "3865",
+      "4065"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえて引くと3965です。"
+  },
+  {
+    "id": "Q04014",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "7104 - 671 はいくつですか？",
+    "choices": [
+      "6533",
+      "6333",
+      "6443",
+      "6433"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえて引くと6433です。"
+  },
+  {
+    "id": "Q04015",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "347 × 95 はいくつですか？",
+    "choices": [
+      "33060",
+      "33065",
+      "32618",
+      "32965"
+    ],
+    "answer": 3,
+    "explanation": "347×95=32965です。"
+  },
+  {
+    "id": "Q04016",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "922 × 15 はいくつですか？",
+    "choices": [
+      "12908",
+      "13845",
+      "13930",
+      "13830"
+    ],
+    "answer": 3,
+    "explanation": "922×15=13830です。"
+  },
+  {
+    "id": "Q04017",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "1442 ÷ 2 はいくつですか？",
+    "choices": [
+      "711",
+      "722",
+      "721",
+      "731"
+    ],
+    "answer": 2,
+    "explanation": "2×721=1442なので、答えは721です。"
+  },
+  {
+    "id": "Q04018",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "小数",
+    "difficulty": "標準",
+    "question": "0.2 + 0.2 はいくつですか？",
+    "choices": [
+      "0.04",
+      "0.14",
+      "0.03",
+      "0.4"
+    ],
+    "answer": 0,
+    "explanation": "小数点の位置をそろえて計算します。"
+  },
+  {
+    "id": "Q04019",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "面積",
+    "difficulty": "標準",
+    "question": "たて7 cm、横12 cmの長方形の面積は何cm²ですか？",
+    "choices": [
+      "19",
+      "84",
+      "72",
+      "91"
+    ],
+    "answer": 1,
+    "explanation": "長方形の面積は、たて×横です。7×12=84 cm²です。"
+  },
+  {
+    "id": "Q04020",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "角度",
+    "difficulty": "標準",
+    "question": "150°は直角（90°）の何倍ですか？",
+    "choices": [
+      "3倍",
+      "1/2倍",
+      "1倍",
+      "2倍"
+    ],
+    "answer": 2,
+    "explanation": "150÷90=1なので、150°は直角の1倍です。"
+  },
+  {
+    "id": "Q04021",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "7549 + 7151 はいくつですか？",
+    "choices": [
+      "14710",
+      "14600",
+      "14800",
+      "14700"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえてたすと14700です。"
+  },
+  {
+    "id": "Q04022",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "4285 + 2830 はいくつですか？",
+    "choices": [
+      "7125",
+      "7115",
+      "7215",
+      "7015"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえてたすと7115です。"
+  },
+  {
+    "id": "Q04023",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "7155 - 1445 はいくつですか？",
+    "choices": [
+      "5610",
+      "5720",
+      "5810",
+      "5710"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえて引くと5710です。"
+  },
+  {
+    "id": "Q04024",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "3141 - 1485 はいくつですか？",
+    "choices": [
+      "1666",
+      "1556",
+      "1756",
+      "1656"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえて引くと1656です。"
+  },
+  {
+    "id": "Q04025",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "109 × 88 はいくつですか？",
+    "choices": [
+      "9483",
+      "9680",
+      "9692",
+      "9592"
+    ],
+    "answer": 3,
+    "explanation": "109×88=9592です。"
+  },
+  {
+    "id": "Q04026",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "817 × 75 はいくつですか？",
+    "choices": [
+      "60458",
+      "61275",
+      "61375",
+      "61350"
+    ],
+    "answer": 1,
+    "explanation": "817×75=61275です。"
+  },
+  {
+    "id": "Q04027",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "7168 ÷ 8 はいくつですか？",
+    "choices": [
+      "897",
+      "886",
+      "906",
+      "896"
+    ],
+    "answer": 3,
+    "explanation": "8×896=7168なので、答えは896です。"
+  },
+  {
+    "id": "Q04028",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "小数",
+    "difficulty": "基礎",
+    "question": "0.3 + 0.2 はいくつですか？",
+    "choices": [
+      "0.16",
+      "0.6",
+      "0.06",
+      "0.05"
+    ],
+    "answer": 2,
+    "explanation": "小数点の位置をそろえて計算します。"
+  },
+  {
+    "id": "Q04029",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "面積",
+    "difficulty": "基礎",
+    "question": "たて4 cm、横7 cmの長方形の面積は何cm²ですか？",
+    "choices": [
+      "21",
+      "28",
+      "11",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "長方形の面積は、たて×横です。4×7=28 cm²です。"
+  },
+  {
+    "id": "Q04030",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "角度",
+    "difficulty": "基礎",
+    "question": "90°は直角（90°）の何倍ですか？",
+    "choices": [
+      "3倍",
+      "1/2倍",
+      "1倍",
+      "2倍"
+    ],
+    "answer": 2,
+    "explanation": "90÷90=1なので、90°は直角の1倍です。"
+  },
+  {
+    "id": "Q04031",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "5333 + 2095 はいくつですか？",
+    "choices": [
+      "7328",
+      "7428",
+      "7438",
+      "7528"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえてたすと7428です。"
+  },
+  {
+    "id": "Q04032",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "5952 + 3668 はいくつですか？",
+    "choices": [
+      "9520",
+      "9630",
+      "9620",
+      "9720"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえてたすと9620です。"
+  },
+  {
+    "id": "Q04033",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "7046 - 738 はいくつですか？",
+    "choices": [
+      "6408",
+      "6208",
+      "6308",
+      "6318"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえて引くと6308です。"
+  },
+  {
+    "id": "Q04034",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "7535 - 1239 はいくつですか？",
+    "choices": [
+      "6196",
+      "6296",
+      "6306",
+      "6396"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえて引くと6296です。"
+  },
+  {
+    "id": "Q04035",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "892 × 32 はいくつですか？",
+    "choices": [
+      "28644",
+      "28576",
+      "28544",
+      "27652"
+    ],
+    "answer": 2,
+    "explanation": "892×32=28544です。"
+  },
+  {
+    "id": "Q04036",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "678 × 27 はいくつですか？",
+    "choices": [
+      "18306",
+      "18333",
+      "18406",
+      "17628"
+    ],
+    "answer": 0,
+    "explanation": "678×27=18306です。"
+  },
+  {
+    "id": "Q04037",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "標準",
+    "question": "1160 ÷ 4 はいくつですか？",
+    "choices": [
+      "291",
+      "300",
+      "290",
+      "280"
+    ],
+    "answer": 2,
+    "explanation": "4×290=1160なので、答えは290です。"
+  },
+  {
+    "id": "Q04038",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "小数",
+    "difficulty": "標準",
+    "question": "0.5 + 0.8 はいくつですか？",
+    "choices": [
+      "4.0",
+      "0.40",
+      "0.50",
+      "0.39"
+    ],
+    "answer": 1,
+    "explanation": "小数点の位置をそろえて計算します。"
+  },
+  {
+    "id": "Q04039",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "面積",
+    "difficulty": "標準",
+    "question": "たて7 cm、横11 cmの長方形の面積は何cm²ですか？",
+    "choices": [
+      "84",
+      "18",
+      "66",
+      "77"
+    ],
+    "answer": 3,
+    "explanation": "長方形の面積は、たて×横です。7×11=77 cm²です。"
+  },
+  {
+    "id": "Q04040",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "角度",
+    "difficulty": "標準",
+    "question": "150°は直角（90°）の何倍ですか？",
+    "choices": [
+      "3倍",
+      "2倍",
+      "1/2倍",
+      "1倍"
+    ],
+    "answer": 3,
+    "explanation": "150÷90=1なので、150°は直角の1倍です。"
+  },
+  {
+    "id": "Q04041",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "5505 + 5475 はいくつですか？",
+    "choices": [
+      "10990",
+      "10880",
+      "10980",
+      "11080"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえてたすと10980です。"
+  },
+  {
+    "id": "Q04042",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "3123 + 6794 はいくつですか？",
+    "choices": [
+      "10017",
+      "9917",
+      "9817",
+      "9927"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえてたすと9917です。"
+  },
+  {
+    "id": "Q04043",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "8840 - 1691 はいくつですか？",
+    "choices": [
+      "7049",
+      "7249",
+      "7149",
+      "7159"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえて引くと7149です。"
+  },
+  {
+    "id": "Q04044",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "基礎",
+    "question": "7869 - 1111 はいくつですか？",
+    "choices": [
+      "6758",
+      "6858",
+      "6768",
+      "6658"
+    ],
+    "answer": 0,
+    "explanation": "位をそろえて引くと6758です。"
+  },
+  {
+    "id": "Q04045",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "967 × 10 はいくつですか？",
+    "choices": [
+      "9680",
+      "9770",
+      "9670",
+      "8703"
+    ],
+    "answer": 2,
+    "explanation": "967×10=9670です。"
+  },
+  {
+    "id": "Q04046",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "基礎",
+    "question": "605 × 92 はいくつですか？",
+    "choices": [
+      "55660",
+      "55752",
+      "55760",
+      "55055"
+    ],
+    "answer": 0,
+    "explanation": "605×92=55660です。"
+  },
+  {
+    "id": "Q04047",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "わり算",
+    "difficulty": "基礎",
+    "question": "1713 ÷ 3 はいくつですか？",
+    "choices": [
+      "572",
+      "581",
+      "571",
+      "561"
+    ],
+    "answer": 2,
+    "explanation": "3×571=1713なので、答えは571です。"
+  },
+  {
+    "id": "Q04048",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "小数",
+    "difficulty": "基礎",
+    "question": "0.2 + 0.6 はいくつですか？",
+    "choices": [
+      "1.2",
+      "0.22",
+      "0.12",
+      "0.11"
+    ],
+    "answer": 2,
+    "explanation": "小数点の位置をそろえて計算します。"
+  },
+  {
+    "id": "Q04049",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "面積",
+    "difficulty": "基礎",
+    "question": "たて4 cm、横3 cmの長方形の面積は何cm²ですか？",
+    "choices": [
+      "12",
+      "7",
+      "16",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "長方形の面積は、たて×横です。4×3=12 cm²です。"
+  },
+  {
+    "id": "Q04050",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "角度",
+    "difficulty": "基礎",
+    "question": "180°は直角（90°）の何倍ですか？",
+    "choices": [
+      "2倍",
+      "1/2倍",
+      "3倍",
+      "2倍（別の値1）"
+    ],
+    "answer": 0,
+    "explanation": "180÷90=2なので、180°は直角の2倍です。"
+  },
+  {
+    "id": "Q04051",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "1926 + 8809 はいくつですか？",
+    "choices": [
+      "10745",
+      "10735",
+      "10635",
+      "10835"
+    ],
+    "answer": 1,
+    "explanation": "位をそろえてたすと10735です。"
+  },
+  {
+    "id": "Q04052",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "3915 + 2120 はいくつですか？",
+    "choices": [
+      "6135",
+      "5935",
+      "6045",
+      "6035"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえてたすと6035です。"
+  },
+  {
+    "id": "Q04053",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "2347 - 1705 はいくつですか？",
+    "choices": [
+      "542",
+      "652",
+      "642",
+      "742"
+    ],
+    "answer": 2,
+    "explanation": "位をそろえて引くと642です。"
+  },
+  {
+    "id": "Q04054",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "大きな数",
+    "difficulty": "標準",
+    "question": "5092 - 1204 はいくつですか？",
+    "choices": [
+      "3898",
+      "3988",
+      "3788",
+      "3888"
+    ],
+    "answer": 3,
+    "explanation": "位をそろえて引くと3888です。"
+  },
+  {
+    "id": "Q04055",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "758 × 68 はいくつですか？",
+    "choices": [
+      "51612",
+      "51544",
+      "50786",
+      "51644"
+    ],
+    "answer": 1,
+    "explanation": "758×68=51544です。"
+  },
+  {
+    "id": "Q04056",
+    "grade": "小学4年生",
+    "subject": "算数",
+    "unit": "かけ算",
+    "difficulty": "標準",
+    "question": "507 × 62 はいくつですか？",
+    "choices": [
+      "31534",
+      "31434",
+      "30927",
+      "31496"
+    ],
+    "answer": 1,
+    "explanation": "507×62=31434です。"
+  },
+  {
+    "id": "Q05001",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "2.7 + 5.8 はいくつですか？",
+    "choices": [
+      "8.4",
+      "8.5",
+      "10",
+      "8.6"
+    ],
+    "answer": 1,
+    "explanation": "小数点をそろえて計算すると8.5です。"
+  },
+  {
+    "id": "Q05002",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "6.2 + 6.3 はいくつですか？",
+    "choices": [
+      "12.6",
+      "14",
+      "12.5",
+      "12.4"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて計算すると12.5です。"
+  },
+  {
+    "id": "Q05003",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "2.8 - 1.8 はいくつですか？",
+    "choices": [
+      "1.1",
+      "2",
+      "1.0",
+      "0.9"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて引くと1.0です。"
+  },
+  {
+    "id": "Q05004",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "7.0 - 1.5 はいくつですか？",
+    "choices": [
+      "6",
+      "5.6",
+      "5.5",
+      "5.4"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて引くと5.5です。"
+  },
+  {
+    "id": "Q05005",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて11 cm、横7 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "77",
+      "152",
+      "156",
+      "154"
+    ],
+    "answer": 3,
+    "explanation": "体積は、たて×横×高さです。11×7×2=154 cm³です。"
+  },
+  {
+    "id": "Q05006",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて15 cm、横9 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "272",
+      "270",
+      "268",
+      "135"
+    ],
+    "answer": 1,
+    "explanation": "体積は、たて×横×高さです。15×9×2=270 cm³です。"
+  },
+  {
+    "id": "Q05007",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "割合",
+    "difficulty": "基礎",
+    "question": "40の20%はいくつですか？",
+    "choices": [
+      "7",
+      "9",
+      "16",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "20%は20/100です。40×20/100=8です。"
+  },
+  {
+    "id": "Q05008",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "3/2 と同じ大きさで、分母が4の分数はどれですか？",
+    "choices": [
+      "6/4",
+      "6/2",
+      "4/4",
+      "3/4"
+    ],
+    "answer": 0,
+    "explanation": "分子と分母に同じ数2をかけると、6/4です。"
+  },
+  {
+    "id": "Q05009",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "平均",
+    "difficulty": "基礎",
+    "question": "9、2、11 の3つの数の平均はいくつですか？",
+    "choices": [
+      "7.3",
+      "7.7",
+      "11.0",
+      "3.7"
+    ],
+    "answer": 0,
+    "explanation": "合計は22です。22÷3=7.3です。"
+  },
+  {
+    "id": "Q05010",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "単位",
+    "difficulty": "基礎",
+    "question": "9 km は何 m ですか？",
+    "choices": [
+      "90",
+      "9000",
+      "900",
+      "9100"
+    ],
+    "answer": 1,
+    "explanation": "1 km = 1000 m なので、9 km = 9000 mです。"
+  },
+  {
+    "id": "Q05011",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "4.7 + 6.0 はいくつですか？",
+    "choices": [
+      "10.8",
+      "12",
+      "10.7",
+      "10.6"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて計算すると10.7です。"
+  },
+  {
+    "id": "Q05012",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "1.2 + 1.2 はいくつですか？",
+    "choices": [
+      "2.3",
+      "2.4",
+      "3",
+      "2.5"
+    ],
+    "answer": 1,
+    "explanation": "小数点をそろえて計算すると2.4です。"
+  },
+  {
+    "id": "Q05013",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "3.9 - 0.9 はいくつですか？",
+    "choices": [
+      "3.1",
+      "2.9",
+      "4",
+      "3.0"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと3.0です。"
+  },
+  {
+    "id": "Q05014",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "7.5 - 0.4 はいくつですか？",
+    "choices": [
+      "8",
+      "7.0",
+      "7.1",
+      "7.2"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて引くと7.1です。"
+  },
+  {
+    "id": "Q05015",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて6 cm、横6 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "70",
+      "74",
+      "36",
+      "72"
+    ],
+    "answer": 3,
+    "explanation": "体積は、たて×横×高さです。6×6×2=72 cm³です。"
+  },
+  {
+    "id": "Q05016",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて10 cm、横13 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "258",
+      "130",
+      "262",
+      "260"
+    ],
+    "answer": 3,
+    "explanation": "体積は、たて×横×高さです。10×13×2=260 cm³です。"
+  },
+  {
+    "id": "Q05017",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "割合",
+    "difficulty": "標準",
+    "question": "80の25%はいくつですか？",
+    "choices": [
+      "21",
+      "19",
+      "40",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "25%は25/100です。80×25/100=20です。"
+  },
+  {
+    "id": "Q05018",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "標準",
+    "question": "5/6 と同じ大きさで、分母が12の分数はどれですか？",
+    "choices": [
+      "10/6",
+      "10/12",
+      "6/12",
+      "5/12"
+    ],
+    "answer": 1,
+    "explanation": "分子と分母に同じ数2をかけると、10/12です。"
+  },
+  {
+    "id": "Q05019",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "平均",
+    "difficulty": "標準",
+    "question": "10、3、13 の3つの数の平均はいくつですか？",
+    "choices": [
+      "8.7",
+      "4.3",
+      "9.0",
+      "13.0"
+    ],
+    "answer": 0,
+    "explanation": "合計は26です。26÷3=8.7です。"
+  },
+  {
+    "id": "Q05020",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "単位",
+    "difficulty": "標準",
+    "question": "10 km は何 m ですか？",
+    "choices": [
+      "10000",
+      "100",
+      "1000",
+      "10100"
+    ],
+    "answer": 0,
+    "explanation": "1 km = 1000 m なので、10 km = 10000 mです。"
+  },
+  {
+    "id": "Q05021",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "6.4 + 8.8 はいくつですか？",
+    "choices": [
+      "15.3",
+      "16",
+      "15.1",
+      "15.2"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて計算すると15.2です。"
+  },
+  {
+    "id": "Q05022",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "3.3 + 3.7 はいくつですか？",
+    "choices": [
+      "8",
+      "7.0",
+      "6.9",
+      "7.1"
+    ],
+    "answer": 1,
+    "explanation": "小数点をそろえて計算すると7.0です。"
+  },
+  {
+    "id": "Q05023",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "4.1 - 0.3 はいくつですか？",
+    "choices": [
+      "5",
+      "3.7",
+      "3.9",
+      "3.8"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと3.8です。"
+  },
+  {
+    "id": "Q05024",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "7.3 - 0.5 はいくつですか？",
+    "choices": [
+      "6.9",
+      "6.7",
+      "8",
+      "6.8"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと6.8です。"
+  },
+  {
+    "id": "Q05025",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて4 cm、横10 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "40",
+      "78",
+      "80",
+      "82"
+    ],
+    "answer": 2,
+    "explanation": "体積は、たて×横×高さです。4×10×2=80 cm³です。"
+  },
+  {
+    "id": "Q05026",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて11 cm、横8 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "178",
+      "88",
+      "174",
+      "176"
+    ],
+    "answer": 3,
+    "explanation": "体積は、たて×横×高さです。11×8×2=176 cm³です。"
+  },
+  {
+    "id": "Q05027",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "割合",
+    "difficulty": "基礎",
+    "question": "40の20%はいくつですか？",
+    "choices": [
+      "9",
+      "16",
+      "8",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "20%は20/100です。40×20/100=8です。"
+  },
+  {
+    "id": "Q05028",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "5/8 と同じ大きさで、分母が16の分数はどれですか？",
+    "choices": [
+      "10/8",
+      "5/16",
+      "6/16",
+      "10/16"
+    ],
+    "answer": 3,
+    "explanation": "分子と分母に同じ数2をかけると、10/16です。"
+  },
+  {
+    "id": "Q05029",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "平均",
+    "difficulty": "基礎",
+    "question": "7、7、14 の3つの数の平均はいくつですか？",
+    "choices": [
+      "9.3",
+      "4.7",
+      "9.7",
+      "14.0"
+    ],
+    "answer": 0,
+    "explanation": "合計は28です。28÷3=9.3です。"
+  },
+  {
+    "id": "Q05030",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "単位",
+    "difficulty": "基礎",
+    "question": "8 km は何 m ですか？",
+    "choices": [
+      "8000",
+      "800",
+      "8100",
+      "80"
+    ],
+    "answer": 0,
+    "explanation": "1 km = 1000 m なので、8 km = 8000 mです。"
+  },
+  {
+    "id": "Q05031",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "8.2 + 8.0 はいくつですか？",
+    "choices": [
+      "16.1",
+      "16.2",
+      "16.3",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "小数点をそろえて計算すると16.2です。"
+  },
+  {
+    "id": "Q05032",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "5.5 + 3.2 はいくつですか？",
+    "choices": [
+      "8.7",
+      "8.8",
+      "8.6",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "小数点をそろえて計算すると8.7です。"
+  },
+  {
+    "id": "Q05033",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "7.0 - 0.5 はいくつですか？",
+    "choices": [
+      "6.6",
+      "8",
+      "6.4",
+      "6.5"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと6.5です。"
+  },
+  {
+    "id": "Q05034",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "2.7 - 1.2 はいくつですか？",
+    "choices": [
+      "2",
+      "1.6",
+      "1.4",
+      "1.5"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと1.5です。"
+  },
+  {
+    "id": "Q05035",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて2 cm、横2 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "6",
+      "4",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "体積は、たて×横×高さです。2×2×2=8 cm³です。"
+  },
+  {
+    "id": "Q05036",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて2 cm、横3 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "12",
+      "14",
+      "10",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "体積は、たて×横×高さです。2×3×2=12 cm³です。"
+  },
+  {
+    "id": "Q05037",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "割合",
+    "difficulty": "標準",
+    "question": "200の20%はいくつですか？",
+    "choices": [
+      "40",
+      "80",
+      "41",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "20%は20/100です。200×20/100=40です。"
+  },
+  {
+    "id": "Q05038",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "標準",
+    "question": "5/4 と同じ大きさで、分母が8の分数はどれですか？",
+    "choices": [
+      "6/8",
+      "5/8",
+      "10/4",
+      "10/8"
+    ],
+    "answer": 3,
+    "explanation": "分子と分母に同じ数2をかけると、10/8です。"
+  },
+  {
+    "id": "Q05039",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "平均",
+    "difficulty": "標準",
+    "question": "2、7、9 の3つの数の平均はいくつですか？",
+    "choices": [
+      "9.0",
+      "3.0",
+      "6.3",
+      "6.0"
+    ],
+    "answer": 3,
+    "explanation": "合計は18です。18÷3=6.0です。"
+  },
+  {
+    "id": "Q05040",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "単位",
+    "difficulty": "標準",
+    "question": "10 km は何 m ですか？",
+    "choices": [
+      "10000",
+      "1000",
+      "10100",
+      "100"
+    ],
+    "answer": 0,
+    "explanation": "1 km = 1000 m なので、10 km = 10000 mです。"
+  },
+  {
+    "id": "Q05041",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "8.0 + 2.4 はいくつですか？",
+    "choices": [
+      "10.5",
+      "11",
+      "10.4",
+      "10.3"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて計算すると10.4です。"
+  },
+  {
+    "id": "Q05042",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "基礎",
+    "question": "1.1 + 4.3 はいくつですか？",
+    "choices": [
+      "5.4",
+      "6",
+      "5.5",
+      "5.3"
+    ],
+    "answer": 0,
+    "explanation": "小数点をそろえて計算すると5.4です。"
+  },
+  {
+    "id": "Q05043",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "2.6 - 1.1 はいくつですか？",
+    "choices": [
+      "1.4",
+      "1.5",
+      "2",
+      "1.6"
+    ],
+    "answer": 1,
+    "explanation": "小数点をそろえて引くと1.5です。"
+  },
+  {
+    "id": "Q05044",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "基礎",
+    "question": "7.0 - 1.5 はいくつですか？",
+    "choices": [
+      "5.5",
+      "5.6",
+      "5.4",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "小数点をそろえて引くと5.5です。"
+  },
+  {
+    "id": "Q05045",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて2 cm、横8 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "34",
+      "16",
+      "32",
+      "30"
+    ],
+    "answer": 2,
+    "explanation": "体積は、たて×横×高さです。2×8×2=32 cm³です。"
+  },
+  {
+    "id": "Q05046",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "たて11 cm、横15 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "330",
+      "165",
+      "328",
+      "332"
+    ],
+    "answer": 0,
+    "explanation": "体積は、たて×横×高さです。11×15×2=330 cm³です。"
+  },
+  {
+    "id": "Q05047",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "割合",
+    "difficulty": "基礎",
+    "question": "80の50%はいくつですか？",
+    "choices": [
+      "39",
+      "41",
+      "40",
+      "80"
+    ],
+    "answer": 2,
+    "explanation": "50%は50/100です。80×50/100=40です。"
+  },
+  {
+    "id": "Q05048",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "分数",
+    "difficulty": "基礎",
+    "question": "4/8 と同じ大きさで、分母が16の分数はどれですか？",
+    "choices": [
+      "8/16",
+      "4/16",
+      "8/8",
+      "5/16"
+    ],
+    "answer": 0,
+    "explanation": "分子と分母に同じ数2をかけると、8/16です。"
+  },
+  {
+    "id": "Q05049",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "平均",
+    "difficulty": "基礎",
+    "question": "7、6、13 の3つの数の平均はいくつですか？",
+    "choices": [
+      "9.0",
+      "13.0",
+      "8.7",
+      "4.3"
+    ],
+    "answer": 2,
+    "explanation": "合計は26です。26÷3=8.7です。"
+  },
+  {
+    "id": "Q05050",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "単位",
+    "difficulty": "基礎",
+    "question": "4 km は何 m ですか？",
+    "choices": [
+      "40",
+      "4000",
+      "4100",
+      "400"
+    ],
+    "answer": 1,
+    "explanation": "1 km = 1000 m なので、4 km = 4000 mです。"
+  },
+  {
+    "id": "Q05051",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "3.1 + 5.4 はいくつですか？",
+    "choices": [
+      "8.4",
+      "10",
+      "8.5",
+      "8.6"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて計算すると8.5です。"
+  },
+  {
+    "id": "Q05052",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のたし算",
+    "difficulty": "標準",
+    "question": "1.3 + 5.4 はいくつですか？",
+    "choices": [
+      "8",
+      "6.6",
+      "6.7",
+      "6.8"
+    ],
+    "answer": 2,
+    "explanation": "小数点をそろえて計算すると6.7です。"
+  },
+  {
+    "id": "Q05053",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "6.5 - 0.9 はいくつですか？",
+    "choices": [
+      "5.6",
+      "5.5",
+      "7",
+      "5.7"
+    ],
+    "answer": 0,
+    "explanation": "小数点をそろえて引くと5.6です。"
+  },
+  {
+    "id": "Q05054",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "小数のひき算",
+    "difficulty": "標準",
+    "question": "2.6 - 0.4 はいくつですか？",
+    "choices": [
+      "3",
+      "2.1",
+      "2.3",
+      "2.2"
+    ],
+    "answer": 3,
+    "explanation": "小数点をそろえて引くと2.2です。"
+  },
+  {
+    "id": "Q05055",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて8 cm、横5 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "78",
+      "80",
+      "82",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "体積は、たて×横×高さです。8×5×2=80 cm³です。"
+  },
+  {
+    "id": "Q05056",
+    "grade": "小学5年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "たて11 cm、横13 cm、高さ2 cmの直方体の体積は何cm³ですか？",
+    "choices": [
+      "286",
+      "284",
+      "143",
+      "288"
+    ],
+    "answer": 0,
+    "explanation": "体積は、たて×横×高さです。11×13×2=286 cm³です。"
+  },
+  {
+    "id": "Q06001",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "3:11 の比の値はどれですか？",
+    "choices": [
+      "14.00",
+      "33.00",
+      "0.27",
+      "3.67"
+    ],
+    "answer": 2,
+    "explanation": "比の値は前の数÷後ろの数です。3÷11=0.27です。"
+  },
+  {
+    "id": "Q06002",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "5:6 の比の値はどれですか？",
+    "choices": [
+      "0.83",
+      "30.00",
+      "1.20",
+      "11.00"
+    ],
+    "answer": 0,
+    "explanation": "比の値は前の数÷後ろの数です。5÷6=0.83です。"
+  },
+  {
+    "id": "Q06003",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個13円の品物を15個買うと、代金はいくらですか？",
+    "choices": [
+      "180円",
+      "195円",
+      "28円",
+      "208円"
+    ],
+    "answer": 1,
+    "explanation": "代金は単価×個数です。13×15=195円です。"
+  },
+  {
+    "id": "Q06004",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個15円の品物を15個買うと、代金はいくらですか？",
+    "choices": [
+      "225円",
+      "30円",
+      "210円",
+      "240円"
+    ],
+    "answer": 0,
+    "explanation": "代金は単価×個数です。15×15=225円です。"
+  },
+  {
+    "id": "Q06005",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速4 kmで5時間進むと、何km進みますか？",
+    "choices": [
+      "15 km",
+      "20 km",
+      "9 km",
+      "24 km"
+    ],
+    "answer": 1,
+    "explanation": "道のり=速さ×時間です。4×5=20 kmです。"
+  },
+  {
+    "id": "Q06006",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速11 kmで3時間進むと、何km進みますか？",
+    "choices": [
+      "33 km",
+      "44 km",
+      "30 km",
+      "14 km"
+    ],
+    "answer": 0,
+    "explanation": "道のり=速さ×時間です。11×3=33 kmです。"
+  },
+  {
+    "id": "Q06007",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径2 cmの円の円周は何cmですか？（円周率3.14）",
+    "choices": [
+      "4.00 cm",
+      "12.56 cm",
+      "6.28 cm",
+      "12.56 cm（別の値1）"
+    ],
+    "answer": 1,
+    "explanation": "円周=直径×円周率です。直径は4 cmなので、4×3.14=12.56 cmです。"
+  },
+  {
+    "id": "Q06008",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "分数の計算",
+    "difficulty": "基礎",
+    "question": "4/10 × 10/4 はいくつですか？",
+    "choices": [
+      "0",
+      "4/10",
+      "2",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "分子と分母をかけると40/40=1です。"
+  },
+  {
+    "id": "Q06009",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "x=9 のとき y=3x です。yはいくつですか？",
+    "choices": [
+      "27",
+      "12",
+      "24",
+      "28"
+    ],
+    "answer": 0,
+    "explanation": "y=3xにx=9を代入すると、y=3×9=27です。"
+  },
+  {
+    "id": "Q06010",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "1辺が4 cmの立方体の体積は何cm³ですか？",
+    "choices": [
+      "16",
+      "63",
+      "68",
+      "64"
+    ],
+    "answer": 3,
+    "explanation": "立方体の体積は1辺×1辺×1辺です。4³=64 cm³です。"
+  },
+  {
+    "id": "Q06011",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "5:10 の比の値はどれですか？",
+    "choices": [
+      "0.50",
+      "50.00",
+      "15.00",
+      "2.00"
+    ],
+    "answer": 0,
+    "explanation": "比の値は前の数÷後ろの数です。5÷10=0.50です。"
+  },
+  {
+    "id": "Q06012",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "2:10 の比の値はどれですか？",
+    "choices": [
+      "5.00",
+      "20.00",
+      "0.20",
+      "12.00"
+    ],
+    "answer": 2,
+    "explanation": "比の値は前の数÷後ろの数です。2÷10=0.20です。"
+  },
+  {
+    "id": "Q06013",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個4円の品物を8個買うと、代金はいくらですか？",
+    "choices": [
+      "36円",
+      "24円",
+      "12円",
+      "32円"
+    ],
+    "answer": 3,
+    "explanation": "代金は単価×個数です。4×8=32円です。"
+  },
+  {
+    "id": "Q06014",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個4円の品物を5個買うと、代金はいくらですか？",
+    "choices": [
+      "9円",
+      "24円",
+      "20円",
+      "15円"
+    ],
+    "answer": 2,
+    "explanation": "代金は単価×個数です。4×5=20円です。"
+  },
+  {
+    "id": "Q06015",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速3 kmで5時間進むと、何km進みますか？",
+    "choices": [
+      "10 km",
+      "15 km",
+      "8 km",
+      "18 km"
+    ],
+    "answer": 1,
+    "explanation": "道のり=速さ×時間です。3×5=15 kmです。"
+  },
+  {
+    "id": "Q06016",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速5 kmで2時間進むと、何km進みますか？",
+    "choices": [
+      "7 km",
+      "10 km",
+      "15 km",
+      "8 km"
+    ],
+    "answer": 1,
+    "explanation": "道のり=速さ×時間です。5×2=10 kmです。"
+  },
+  {
+    "id": "Q06017",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "円",
+    "difficulty": "標準",
+    "question": "半径5 cmの円の円周は何cmですか？（円周率3.14）",
+    "choices": [
+      "15.70 cm",
+      "31.40 cm",
+      "10.00 cm",
+      "78.50 cm"
+    ],
+    "answer": 1,
+    "explanation": "円周=直径×円周率です。直径は10 cmなので、10×3.14=31.40 cmです。"
+  },
+  {
+    "id": "Q06018",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "分数の計算",
+    "difficulty": "標準",
+    "question": "10/9 × 9/10 はいくつですか？",
+    "choices": [
+      "10/9",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "分子と分母をかけると90/90=1です。"
+  },
+  {
+    "id": "Q06019",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "x=7 のとき y=3x です。yはいくつですか？",
+    "choices": [
+      "22",
+      "10",
+      "18",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "y=3xにx=7を代入すると、y=3×7=21です。"
+  },
+  {
+    "id": "Q06020",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "1辺が5 cmの立方体の体積は何cm³ですか？",
+    "choices": [
+      "125",
+      "124",
+      "130",
+      "25"
+    ],
+    "answer": 0,
+    "explanation": "立方体の体積は1辺×1辺×1辺です。5³=125 cm³です。"
+  },
+  {
+    "id": "Q06021",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "7:12 の比の値はどれですか？",
+    "choices": [
+      "84.00",
+      "1.71",
+      "19.00",
+      "0.58"
+    ],
+    "answer": 3,
+    "explanation": "比の値は前の数÷後ろの数です。7÷12=0.58です。"
+  },
+  {
+    "id": "Q06022",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "5:6 の比の値はどれですか？",
+    "choices": [
+      "1.20",
+      "0.83",
+      "30.00",
+      "11.00"
+    ],
+    "answer": 1,
+    "explanation": "比の値は前の数÷後ろの数です。5÷6=0.83です。"
+  },
+  {
+    "id": "Q06023",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個7円の品物を3個買うと、代金はいくらですか？",
+    "choices": [
+      "18円",
+      "28円",
+      "21円",
+      "10円"
+    ],
+    "answer": 2,
+    "explanation": "代金は単価×個数です。7×3=21円です。"
+  },
+  {
+    "id": "Q06024",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個7円の品物を11個買うと、代金はいくらですか？",
+    "choices": [
+      "77円",
+      "66円",
+      "18円",
+      "84円"
+    ],
+    "answer": 0,
+    "explanation": "代金は単価×個数です。7×11=77円です。"
+  },
+  {
+    "id": "Q06025",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速6 kmで2時間進むと、何km進みますか？",
+    "choices": [
+      "10 km",
+      "8 km",
+      "18 km",
+      "12 km"
+    ],
+    "answer": 3,
+    "explanation": "道のり=速さ×時間です。6×2=12 kmです。"
+  },
+  {
+    "id": "Q06026",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速11 kmで3時間進むと、何km進みますか？",
+    "choices": [
+      "33 km",
+      "14 km",
+      "44 km",
+      "30 km"
+    ],
+    "answer": 0,
+    "explanation": "道のり=速さ×時間です。11×3=33 kmです。"
+  },
+  {
+    "id": "Q06027",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径3 cmの円の円周は何cmですか？（円周率3.14）",
+    "choices": [
+      "9.42 cm",
+      "6.00 cm",
+      "28.26 cm",
+      "18.84 cm"
+    ],
+    "answer": 3,
+    "explanation": "円周=直径×円周率です。直径は6 cmなので、6×3.14=18.84 cmです。"
+  },
+  {
+    "id": "Q06028",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "分数の計算",
+    "difficulty": "基礎",
+    "question": "9/6 × 6/9 はいくつですか？",
+    "choices": [
+      "0",
+      "1",
+      "9/6",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "分子と分母をかけると54/54=1です。"
+  },
+  {
+    "id": "Q06029",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "x=10 のとき y=3x です。yはいくつですか？",
+    "choices": [
+      "13",
+      "31",
+      "27",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "y=3xにx=10を代入すると、y=3×10=30です。"
+  },
+  {
+    "id": "Q06030",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "1辺が5 cmの立方体の体積は何cm³ですか？",
+    "choices": [
+      "125",
+      "124",
+      "25",
+      "130"
+    ],
+    "answer": 0,
+    "explanation": "立方体の体積は1辺×1辺×1辺です。5³=125 cm³です。"
+  },
+  {
+    "id": "Q06031",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "11:12 の比の値はどれですか？",
+    "choices": [
+      "1.09",
+      "132.00",
+      "0.92",
+      "23.00"
+    ],
+    "answer": 2,
+    "explanation": "比の値は前の数÷後ろの数です。11÷12=0.92です。"
+  },
+  {
+    "id": "Q06032",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "9:7 の比の値はどれですか？",
+    "choices": [
+      "1.29",
+      "63.00",
+      "0.78",
+      "16.00"
+    ],
+    "answer": 0,
+    "explanation": "比の値は前の数÷後ろの数です。9÷7=1.29です。"
+  },
+  {
+    "id": "Q06033",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個11円の品物を5個買うと、代金はいくらですか？",
+    "choices": [
+      "50円",
+      "16円",
+      "66円",
+      "55円"
+    ],
+    "answer": 3,
+    "explanation": "代金は単価×個数です。11×5=55円です。"
+  },
+  {
+    "id": "Q06034",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個5円の品物を9個買うと、代金はいくらですか？",
+    "choices": [
+      "50円",
+      "36円",
+      "14円",
+      "45円"
+    ],
+    "answer": 3,
+    "explanation": "代金は単価×個数です。5×9=45円です。"
+  },
+  {
+    "id": "Q06035",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速9 kmで5時間進むと、何km進みますか？",
+    "choices": [
+      "40 km",
+      "14 km",
+      "54 km",
+      "45 km"
+    ],
+    "answer": 3,
+    "explanation": "道のり=速さ×時間です。9×5=45 kmです。"
+  },
+  {
+    "id": "Q06036",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速7 kmで2時間進むと、何km進みますか？",
+    "choices": [
+      "21 km",
+      "9 km",
+      "12 km",
+      "14 km"
+    ],
+    "answer": 3,
+    "explanation": "道のり=速さ×時間です。7×2=14 kmです。"
+  },
+  {
+    "id": "Q06037",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "円",
+    "difficulty": "標準",
+    "question": "半径5 cmの円の円周は何cmですか？（円周率3.14）",
+    "choices": [
+      "78.50 cm",
+      "15.70 cm",
+      "10.00 cm",
+      "31.40 cm"
+    ],
+    "answer": 3,
+    "explanation": "円周=直径×円周率です。直径は10 cmなので、10×3.14=31.40 cmです。"
+  },
+  {
+    "id": "Q06038",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "分数の計算",
+    "difficulty": "標準",
+    "question": "5/4 × 4/5 はいくつですか？",
+    "choices": [
+      "5/4",
+      "0",
+      "2",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "分子と分母をかけると20/20=1です。"
+  },
+  {
+    "id": "Q06039",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "x=10 のとき y=3x です。yはいくつですか？",
+    "choices": [
+      "30",
+      "31",
+      "27",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "y=3xにx=10を代入すると、y=3×10=30です。"
+  },
+  {
+    "id": "Q06040",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "標準",
+    "question": "1辺が8 cmの立方体の体積は何cm³ですか？",
+    "choices": [
+      "520",
+      "512",
+      "64",
+      "511"
+    ],
+    "answer": 1,
+    "explanation": "立方体の体積は1辺×1辺×1辺です。8³=512 cm³です。"
+  },
+  {
+    "id": "Q06041",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "10:3 の比の値はどれですか？",
+    "choices": [
+      "0.30",
+      "3.33",
+      "30.00",
+      "13.00"
+    ],
+    "answer": 1,
+    "explanation": "比の値は前の数÷後ろの数です。10÷3=3.33です。"
+  },
+  {
+    "id": "Q06042",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "基礎",
+    "question": "7:8 の比の値はどれですか？",
+    "choices": [
+      "0.88",
+      "56.00",
+      "15.00",
+      "1.14"
+    ],
+    "answer": 0,
+    "explanation": "比の値は前の数÷後ろの数です。7÷8=0.88です。"
+  },
+  {
+    "id": "Q06043",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個9円の品物を11個買うと、代金はいくらですか？",
+    "choices": [
+      "88円",
+      "99円",
+      "20円",
+      "108円"
+    ],
+    "answer": 1,
+    "explanation": "代金は単価×個数です。9×11=99円です。"
+  },
+  {
+    "id": "Q06044",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "1個4円の品物を3個買うと、代金はいくらですか？",
+    "choices": [
+      "9円",
+      "7円",
+      "16円",
+      "12円"
+    ],
+    "answer": 3,
+    "explanation": "代金は単価×個数です。4×3=12円です。"
+  },
+  {
+    "id": "Q06045",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速11 kmで5時間進むと、何km進みますか？",
+    "choices": [
+      "50 km",
+      "16 km",
+      "55 km",
+      "66 km"
+    ],
+    "answer": 2,
+    "explanation": "道のり=速さ×時間です。11×5=55 kmです。"
+  },
+  {
+    "id": "Q06046",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "基礎",
+    "question": "時速6 kmで4時間進むと、何km進みますか？",
+    "choices": [
+      "30 km",
+      "24 km",
+      "20 km",
+      "10 km"
+    ],
+    "answer": 1,
+    "explanation": "道のり=速さ×時間です。6×4=24 kmです。"
+  },
+  {
+    "id": "Q06047",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径4 cmの円の円周は何cmですか？（円周率3.14）",
+    "choices": [
+      "25.12 cm",
+      "12.56 cm",
+      "8.00 cm",
+      "50.24 cm"
+    ],
+    "answer": 0,
+    "explanation": "円周=直径×円周率です。直径は8 cmなので、8×3.14=25.12 cmです。"
+  },
+  {
+    "id": "Q06048",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "分数の計算",
+    "difficulty": "基礎",
+    "question": "2/10 × 10/2 はいくつですか？",
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "2/10"
+    ],
+    "answer": 0,
+    "explanation": "分子と分母をかけると20/20=1です。"
+  },
+  {
+    "id": "Q06049",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "x=3 のとき y=3x です。yはいくつですか？",
+    "choices": [
+      "9",
+      "10",
+      "6",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "y=3xにx=3を代入すると、y=3×3=9です。"
+  },
+  {
+    "id": "Q06050",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "体積",
+    "difficulty": "基礎",
+    "question": "1辺が10 cmの立方体の体積は何cm³ですか？",
+    "choices": [
+      "1000",
+      "100",
+      "1010",
+      "999"
+    ],
+    "answer": 0,
+    "explanation": "立方体の体積は1辺×1辺×1辺です。10³=1000 cm³です。"
+  },
+  {
+    "id": "Q06051",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "11:12 の比の値はどれですか？",
+    "choices": [
+      "132.00",
+      "23.00",
+      "0.92",
+      "1.09"
+    ],
+    "answer": 2,
+    "explanation": "比の値は前の数÷後ろの数です。11÷12=0.92です。"
+  },
+  {
+    "id": "Q06052",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比",
+    "difficulty": "標準",
+    "question": "3:8 の比の値はどれですか？",
+    "choices": [
+      "11.00",
+      "24.00",
+      "0.38",
+      "2.67"
+    ],
+    "answer": 2,
+    "explanation": "比の値は前の数÷後ろの数です。3÷8=0.38です。"
+  },
+  {
+    "id": "Q06053",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個6円の品物を9個買うと、代金はいくらですか？",
+    "choices": [
+      "54円",
+      "60円",
+      "45円",
+      "15円"
+    ],
+    "answer": 0,
+    "explanation": "代金は単価×個数です。6×9=54円です。"
+  },
+  {
+    "id": "Q06054",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "1個14円の品物を13個買うと、代金はいくらですか？",
+    "choices": [
+      "182円",
+      "169円",
+      "27円",
+      "196円"
+    ],
+    "answer": 0,
+    "explanation": "代金は単価×個数です。14×13=182円です。"
+  },
+  {
+    "id": "Q06055",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速3 kmで4時間進むと、何km進みますか？",
+    "choices": [
+      "12 km",
+      "7 km",
+      "15 km",
+      "8 km"
+    ],
+    "answer": 0,
+    "explanation": "道のり=速さ×時間です。3×4=12 kmです。"
+  },
+  {
+    "id": "Q06056",
+    "grade": "小学6年生",
+    "subject": "算数",
+    "unit": "速さ",
+    "difficulty": "標準",
+    "question": "時速10 kmで2時間進むと、何km進みますか？",
+    "choices": [
+      "18 km",
+      "30 km",
+      "20 km",
+      "12 km"
+    ],
+    "answer": 2,
+    "explanation": "道のり=速さ×時間です。10×2=20 kmです。"
+  },
+  {
+    "id": "Q07001",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-7) + (2) はいくつですか？",
+    "choices": [
+      "-7",
+      "-5",
+      "5",
+      "-4"
+    ],
+    "answer": 1,
+    "explanation": "符号に注意して計算すると、-7+(2)=-5です。"
+  },
+  {
+    "id": "Q07002",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-6) + (7) はいくつですか？",
+    "choices": [
+      "-1",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "符号に注意して計算すると、-6+(7)=1です。"
+  },
+  {
+    "id": "Q07003",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-1) - (-8) はいくつですか？",
+    "choices": [
+      "8",
+      "7",
+      "-7",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは7です。"
+  },
+  {
+    "id": "Q07004",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-7) - (8) はいくつですか？",
+    "choices": [
+      "-14",
+      "-15",
+      "15",
+      "-16"
+    ],
+    "answer": 1,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-15です。"
+  },
+  {
+    "id": "Q07005",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "4x + -3 = 25 のとき、xはいくつですか？",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "-7"
+    ],
+    "answer": 0,
+    "explanation": "4x=28より、x=(28)÷4=7です。"
+  },
+  {
+    "id": "Q07006",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "6x + -6 = 24 のとき、xはいくつですか？",
+    "choices": [
+      "-5",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "6x=30より、x=(30)÷6=5です。"
+  },
+  {
+    "id": "Q07007",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "基礎",
+    "question": "x=6 のとき、9x の値はいくつですか？",
+    "choices": [
+      "15",
+      "55",
+      "45",
+      "54"
+    ],
+    "answer": 3,
+    "explanation": "9xにx=6を代入すると、9×6=54です。"
+  },
+  {
+    "id": "Q07008",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "y=7x で、x=2 のとき yはいくつですか？",
+    "choices": [
+      "14",
+      "9",
+      "15",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "y=7×2=14です。"
+  },
+  {
+    "id": "Q07009",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "基礎",
+    "question": "三角形の2つの角が90°と88°です。残りの角は何度ですか？",
+    "choices": [
+      "12°",
+      "178°",
+      "-8°",
+      "2°"
+    ],
+    "answer": 3,
+    "explanation": "三角形の内角の和は180°です。180-90-88=2°です。"
+  },
+  {
+    "id": "Q07010",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "基礎",
+    "question": "10と10の平均値はいくつですか？",
+    "choices": [
+      "20",
+      "10",
+      "0",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "平均値は合計÷個数です。(10+10)÷2=10です。"
+  },
+  {
+    "id": "Q07011",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-3) + (13) はいくつですか？",
+    "choices": [
+      "-10",
+      "11",
+      "10",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "符号に注意して計算すると、-3+(13)=10です。"
+  },
+  {
+    "id": "Q07012",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-15) + (-15) はいくつですか？",
+    "choices": [
+      "-30",
+      "-32",
+      "30",
+      "-29"
+    ],
+    "answer": 0,
+    "explanation": "符号に注意して計算すると、-15+(-15)=-30です。"
+  },
+  {
+    "id": "Q07013",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-11) - (-8) はいくつですか？",
+    "choices": [
+      "3",
+      "-4",
+      "-2",
+      "-3"
+    ],
+    "answer": 3,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-3です。"
+  },
+  {
+    "id": "Q07014",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-1) - (5) はいくつですか？",
+    "choices": [
+      "-6",
+      "-5",
+      "-7",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-6です。"
+  },
+  {
+    "id": "Q07015",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "6x + -6 = 48 のとき、xはいくつですか？",
+    "choices": [
+      "9",
+      "-9",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "6x=54より、x=(54)÷6=9です。"
+  },
+  {
+    "id": "Q07016",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "4x + -3 = 1 のとき、xはいくつですか？",
+    "choices": [
+      "2",
+      "1",
+      "-1",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "4x=4より、x=(4)÷4=1です。"
+  },
+  {
+    "id": "Q07017",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "標準",
+    "question": "x=6 のとき、2x の値はいくつですか？",
+    "choices": [
+      "10",
+      "12",
+      "13",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "2xにx=6を代入すると、2×6=12です。"
+  },
+  {
+    "id": "Q07018",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "y=5x で、x=12 のとき yはいくつですか？",
+    "choices": [
+      "17",
+      "60",
+      "61",
+      "55"
+    ],
+    "answer": 1,
+    "explanation": "y=5×12=60です。"
+  },
+  {
+    "id": "Q07019",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "標準",
+    "question": "三角形の2つの角が78°と82°です。残りの角は何度ですか？",
+    "choices": [
+      "20°",
+      "10°",
+      "160°",
+      "30°"
+    ],
+    "answer": 0,
+    "explanation": "三角形の内角の和は180°です。180-78-82=20°です。"
+  },
+  {
+    "id": "Q07020",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "標準",
+    "question": "6と3の平均値はいくつですか？",
+    "choices": [
+      "5.5",
+      "4.5",
+      "3",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "平均値は合計÷個数です。(6+3)÷2=4.5です。"
+  },
+  {
+    "id": "Q07021",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-3) + (-4) はいくつですか？",
+    "choices": [
+      "-9",
+      "-7",
+      "7",
+      "-6"
+    ],
+    "answer": 1,
+    "explanation": "符号に注意して計算すると、-3+(-4)=-7です。"
+  },
+  {
+    "id": "Q07022",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-13) + (-7) はいくつですか？",
+    "choices": [
+      "-22",
+      "-20",
+      "20",
+      "-19"
+    ],
+    "answer": 1,
+    "explanation": "符号に注意して計算すると、-13+(-7)=-20です。"
+  },
+  {
+    "id": "Q07023",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(8) - (2) はいくつですか？",
+    "choices": [
+      "7",
+      "-6",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは6です。"
+  },
+  {
+    "id": "Q07024",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-8) - (10) はいくつですか？",
+    "choices": [
+      "18",
+      "-18",
+      "-19",
+      "-17"
+    ],
+    "answer": 1,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-18です。"
+  },
+  {
+    "id": "Q07025",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "4x + 6 = 14 のとき、xはいくつですか？",
+    "choices": [
+      "2",
+      "-2",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "4x=8より、x=(8)÷4=2です。"
+  },
+  {
+    "id": "Q07026",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "2x + -5 = -3 のとき、xはいくつですか？",
+    "choices": [
+      "1",
+      "-1",
+      "2",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "2x=2より、x=(2)÷2=1です。"
+  },
+  {
+    "id": "Q07027",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "基礎",
+    "question": "x=2 のとき、12x の値はいくつですか？",
+    "choices": [
+      "12",
+      "14",
+      "25",
+      "24"
+    ],
+    "answer": 3,
+    "explanation": "12xにx=2を代入すると、12×2=24です。"
+  },
+  {
+    "id": "Q07028",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "y=5x で、x=4 のとき yはいくつですか？",
+    "choices": [
+      "15",
+      "21",
+      "9",
+      "20"
+    ],
+    "answer": 3,
+    "explanation": "y=5×4=20です。"
+  },
+  {
+    "id": "Q07029",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "基礎",
+    "question": "三角形の2つの角が40°と60°です。残りの角は何度ですか？",
+    "choices": [
+      "90°",
+      "70°",
+      "80°",
+      "100°"
+    ],
+    "answer": 2,
+    "explanation": "三角形の内角の和は180°です。180-40-60=80°です。"
+  },
+  {
+    "id": "Q07030",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "基礎",
+    "question": "3と4の平均値はいくつですか？",
+    "choices": [
+      "4.5",
+      "1",
+      "3.5",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "平均値は合計÷個数です。(3+4)÷2=3.5です。"
+  },
+  {
+    "id": "Q07031",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-8) + (8) はいくつですか？",
+    "choices": [
+      "2",
+      "1",
+      "-2",
+      "0"
+    ],
+    "answer": 3,
+    "explanation": "符号に注意して計算すると、-8+(8)=0です。"
+  },
+  {
+    "id": "Q07032",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-8) + (8) はいくつですか？",
+    "choices": [
+      "-2",
+      "2",
+      "1",
+      "0"
+    ],
+    "answer": 3,
+    "explanation": "符号に注意して計算すると、-8+(8)=0です。"
+  },
+  {
+    "id": "Q07033",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(10) - (-7) はいくつですか？",
+    "choices": [
+      "18",
+      "16",
+      "17",
+      "-17"
+    ],
+    "answer": 2,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは17です。"
+  },
+  {
+    "id": "Q07034",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(9) - (-1) はいくつですか？",
+    "choices": [
+      "9",
+      "-10",
+      "11",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは10です。"
+  },
+  {
+    "id": "Q07035",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "7x + -7 = 28 のとき、xはいくつですか？",
+    "choices": [
+      "4",
+      "6",
+      "5",
+      "-5"
+    ],
+    "answer": 2,
+    "explanation": "7x=35より、x=(35)÷7=5です。"
+  },
+  {
+    "id": "Q07036",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "8x + -3 = 13 のとき、xはいくつですか？",
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "-2"
+    ],
+    "answer": 2,
+    "explanation": "8x=16より、x=(16)÷8=2です。"
+  },
+  {
+    "id": "Q07037",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "標準",
+    "question": "x=10 のとき、5x の値はいくつですか？",
+    "choices": [
+      "50",
+      "15",
+      "45",
+      "51"
+    ],
+    "answer": 0,
+    "explanation": "5xにx=10を代入すると、5×10=50です。"
+  },
+  {
+    "id": "Q07038",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "比例",
+    "difficulty": "標準",
+    "question": "y=4x で、x=9 のとき yはいくつですか？",
+    "choices": [
+      "37",
+      "36",
+      "32",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "y=4×9=36です。"
+  },
+  {
+    "id": "Q07039",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "標準",
+    "question": "三角形の2つの角が98°と30°です。残りの角は何度ですか？",
+    "choices": [
+      "42°",
+      "128°",
+      "62°",
+      "52°"
+    ],
+    "answer": 3,
+    "explanation": "三角形の内角の和は180°です。180-98-30=52°です。"
+  },
+  {
+    "id": "Q07040",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "標準",
+    "question": "4と4の平均値はいくつですか？",
+    "choices": [
+      "4",
+      "8",
+      "5",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "平均値は合計÷個数です。(4+4)÷2=4です。"
+  },
+  {
+    "id": "Q07041",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(2) + (15) はいくつですか？",
+    "choices": [
+      "17",
+      "18",
+      "-17",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "符号に注意して計算すると、2+(15)=17です。"
+  },
+  {
+    "id": "Q07042",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(10) + (-11) はいくつですか？",
+    "choices": [
+      "1",
+      "-1",
+      "0",
+      "-3"
+    ],
+    "answer": 1,
+    "explanation": "符号に注意して計算すると、10+(-11)=-1です。"
+  },
+  {
+    "id": "Q07043",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-8) - (-2) はいくつですか？",
+    "choices": [
+      "-7",
+      "-5",
+      "6",
+      "-6"
+    ],
+    "answer": 3,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-6です。"
+  },
+  {
+    "id": "Q07044",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "基礎",
+    "question": "(-10) - (11) はいくつですか？",
+    "choices": [
+      "-21",
+      "-20",
+      "21",
+      "-22"
+    ],
+    "answer": 0,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-21です。"
+  },
+  {
+    "id": "Q07045",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "6x + 10 = 28 のとき、xはいくつですか？",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "-3"
+    ],
+    "answer": 1,
+    "explanation": "6x=18より、x=(18)÷6=3です。"
+  },
+  {
+    "id": "Q07046",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "基礎",
+    "question": "7x + 5 = 47 のとき、xはいくつですか？",
+    "choices": [
+      "7",
+      "5",
+      "-6",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "7x=42より、x=(42)÷7=6です。"
+  },
+  {
+    "id": "Q07047",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "基礎",
+    "question": "x=5 のとき、10x の値はいくつですか？",
+    "choices": [
+      "15",
+      "51",
+      "40",
+      "50"
+    ],
+    "answer": 3,
+    "explanation": "10xにx=5を代入すると、10×5=50です。"
+  },
+  {
+    "id": "Q07048",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "比例",
+    "difficulty": "基礎",
+    "question": "y=7x で、x=9 のとき yはいくつですか？",
+    "choices": [
+      "56",
+      "16",
+      "63",
+      "64"
+    ],
+    "answer": 2,
+    "explanation": "y=7×9=63です。"
+  },
+  {
+    "id": "Q07049",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "基礎",
+    "question": "三角形の2つの角が141°と32°です。残りの角は何度ですか？",
+    "choices": [
+      "7°",
+      "17°",
+      "-3°",
+      "173°"
+    ],
+    "answer": 0,
+    "explanation": "三角形の内角の和は180°です。180-141-32=7°です。"
+  },
+  {
+    "id": "Q07050",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "基礎",
+    "question": "5と6の平均値はいくつですか？",
+    "choices": [
+      "6.5",
+      "1",
+      "11",
+      "5.5"
+    ],
+    "answer": 3,
+    "explanation": "平均値は合計÷個数です。(5+6)÷2=5.5です。"
+  },
+  {
+    "id": "Q07051",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(5) + (-12) はいくつですか？",
+    "choices": [
+      "-7",
+      "7",
+      "-6",
+      "-9"
+    ],
+    "answer": 0,
+    "explanation": "符号に注意して計算すると、5+(-12)=-7です。"
+  },
+  {
+    "id": "Q07052",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(7) + (-1) はいくつですか？",
+    "choices": [
+      "4",
+      "7",
+      "6",
+      "-6"
+    ],
+    "answer": 2,
+    "explanation": "符号に注意して計算すると、7+(-1)=6です。"
+  },
+  {
+    "id": "Q07053",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-6) - (5) はいくつですか？",
+    "choices": [
+      "-10",
+      "11",
+      "-12",
+      "-11"
+    ],
+    "answer": 3,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-11です。"
+  },
+  {
+    "id": "Q07054",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "標準",
+    "question": "(-5) - (4) はいくつですか？",
+    "choices": [
+      "-8",
+      "-10",
+      "-9",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "引き算は反対の符号の数を足すことです。答えは-9です。"
+  },
+  {
+    "id": "Q07055",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "3x + 5 = 20 のとき、xはいくつですか？",
+    "choices": [
+      "-5",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "3x=15より、x=(15)÷3=5です。"
+  },
+  {
+    "id": "Q07056",
+    "grade": "中学1年生",
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "標準",
+    "question": "2x + 7 = 25 のとき、xはいくつですか？",
+    "choices": [
+      "10",
+      "9",
+      "-9",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "2x=18より、x=(18)÷2=9です。"
+  },
+  {
+    "id": "Q08001",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=6x+3 で、x=7 のとき yはいくつですか？",
+    "choices": [
+      "46",
+      "39",
+      "45",
+      "-45"
+    ],
+    "answer": 2,
+    "explanation": "x=7を代入すると、y=6×(7)+3=45です。"
+  },
+  {
+    "id": "Q08002",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=2x-8 で、x=7 のとき yはいくつですか？",
+    "choices": [
+      "6",
+      "7",
+      "-6",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "x=7を代入すると、y=2×(7)-8=6です。"
+  },
+  {
+    "id": "Q08003",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=8、y=1 のとき、7x + y の値はいくつですか？",
+    "choices": [
+      "57",
+      "8",
+      "58",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "7×8+1=57です。"
+  },
+  {
+    "id": "Q08004",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=3、y=2 のとき、3x + y の値はいくつですか？",
+    "choices": [
+      "10",
+      "12",
+      "11",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "3×3+2=11です。"
+  },
+  {
+    "id": "Q08005",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=5、y=6 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "60",
+      "61",
+      "62",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "5²+6²=25+36=61です。"
+  },
+  {
+    "id": "Q08006",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=2、y=3 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "5",
+      "13",
+      "14",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "2²+3²=4+9=13です。"
+  },
+  {
+    "id": "Q08007",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "1から2までの整数から1つを選びます。偶数が出る確率はどれですか？",
+    "choices": [
+      "1/2",
+      "2/2",
+      "1/2（別の値1）",
+      "1/2（別の値2）"
+    ],
+    "answer": 0,
+    "explanation": "偶数は1個なので、確率は1/2です。"
+  },
+  {
+    "id": "Q08008",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "図形",
+    "difficulty": "基礎",
+    "question": "平行四辺形の底辺が8 cm、高さが2 cmです。面積は何cm²ですか？",
+    "choices": [
+      "10",
+      "14",
+      "24",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "平行四辺形の面積=底辺×高さ=8×2=16 cm²です。"
+  },
+  {
+    "id": "Q08009",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=3、y=2 のとき、x+yはいくつですか？",
+    "choices": [
+      "1",
+      "5",
+      "7",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "x+y=3+2=5です。"
+  },
+  {
+    "id": "Q08010",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "平方根の準備",
+    "difficulty": "基礎",
+    "question": "7² はいくつですか？",
+    "choices": [
+      "49",
+      "42",
+      "14",
+      "50"
+    ],
+    "answer": 0,
+    "explanation": "7²は7×7なので、49です。"
+  },
+  {
+    "id": "Q08011",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=8x+8 で、x=3 のとき yはいくつですか？",
+    "choices": [
+      "-32",
+      "24",
+      "33",
+      "32"
+    ],
+    "answer": 3,
+    "explanation": "x=3を代入すると、y=8×(3)+8=32です。"
+  },
+  {
+    "id": "Q08012",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=8x-8 で、x=3 のとき yはいくつですか？",
+    "choices": [
+      "8",
+      "-16",
+      "17",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "x=3を代入すると、y=8×(3)-8=16です。"
+  },
+  {
+    "id": "Q08013",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=9、y=5 のとき、7x + y の値はいくつですか？",
+    "choices": [
+      "12",
+      "69",
+      "68",
+      "67"
+    ],
+    "answer": 2,
+    "explanation": "7×9+5=68です。"
+  },
+  {
+    "id": "Q08014",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=3、y=8 のとき、7x + y の値はいくつですか？",
+    "choices": [
+      "29",
+      "30",
+      "15",
+      "28"
+    ],
+    "answer": 0,
+    "explanation": "7×3+8=29です。"
+  },
+  {
+    "id": "Q08015",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=7、y=6 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "84",
+      "86",
+      "13",
+      "85"
+    ],
+    "answer": 3,
+    "explanation": "7²+6²=49+36=85です。"
+  },
+  {
+    "id": "Q08016",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=6、y=9 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "15",
+      "118",
+      "117",
+      "116"
+    ],
+    "answer": 2,
+    "explanation": "6²+9²=36+81=117です。"
+  },
+  {
+    "id": "Q08017",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "標準",
+    "question": "1から8までの整数から1つを選びます。偶数が出る確率はどれですか？",
+    "choices": [
+      "5/8",
+      "1/8",
+      "8/8",
+      "4/8"
+    ],
+    "answer": 3,
+    "explanation": "偶数は4個なので、確率は4/8です。"
+  },
+  {
+    "id": "Q08018",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "図形",
+    "difficulty": "標準",
+    "question": "平行四辺形の底辺が9 cm、高さが7 cmです。面積は何cm²ですか？",
+    "choices": [
+      "16",
+      "63",
+      "72",
+      "56"
+    ],
+    "answer": 1,
+    "explanation": "平行四辺形の面積=底辺×高さ=9×7=63 cm²です。"
+  },
+  {
+    "id": "Q08019",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=9、y=11 のとき、x+yはいくつですか？",
+    "choices": [
+      "21",
+      "2",
+      "20",
+      "99"
+    ],
+    "answer": 2,
+    "explanation": "x+y=9+11=20です。"
+  },
+  {
+    "id": "Q08020",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "平方根の準備",
+    "difficulty": "標準",
+    "question": "5² はいくつですか？",
+    "choices": [
+      "26",
+      "10",
+      "25",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "5²は5×5なので、25です。"
+  },
+  {
+    "id": "Q08021",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=8x-2 で、x=7 のとき yはいくつですか？",
+    "choices": [
+      "54",
+      "-54",
+      "46",
+      "55"
+    ],
+    "answer": 0,
+    "explanation": "x=7を代入すると、y=8×(7)-2=54です。"
+  },
+  {
+    "id": "Q08022",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=5x-4 で、x=-5 のとき yはいくつですか？",
+    "choices": [
+      "-34",
+      "-29",
+      "29",
+      "-28"
+    ],
+    "answer": 1,
+    "explanation": "x=-5を代入すると、y=5×(-5)-4=-29です。"
+  },
+  {
+    "id": "Q08023",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=10、y=1 のとき、5x + y の値はいくつですか？",
+    "choices": [
+      "52",
+      "50",
+      "51",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "5×10+1=51です。"
+  },
+  {
+    "id": "Q08024",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=6、y=6 のとき、5x + y の値はいくつですか？",
+    "choices": [
+      "36",
+      "11",
+      "37",
+      "35"
+    ],
+    "answer": 0,
+    "explanation": "5×6+6=36です。"
+  },
+  {
+    "id": "Q08025",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=7、y=6 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "86",
+      "85",
+      "84",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "7²+6²=49+36=85です。"
+  },
+  {
+    "id": "Q08026",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=8、y=5 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "88",
+      "89",
+      "90",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "8²+5²=64+25=89です。"
+  },
+  {
+    "id": "Q08027",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "1から6までの整数から1つを選びます。偶数が出る確率はどれですか？",
+    "choices": [
+      "6/6",
+      "4/6",
+      "1/6",
+      "3/6"
+    ],
+    "answer": 3,
+    "explanation": "偶数は3個なので、確率は3/6です。"
+  },
+  {
+    "id": "Q08028",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "図形",
+    "difficulty": "基礎",
+    "question": "平行四辺形の底辺が2 cm、高さが2 cmです。面積は何cm²ですか？",
+    "choices": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "平行四辺形の面積=底辺×高さ=2×2=4 cm²です。"
+  },
+  {
+    "id": "Q08029",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=8、y=8 のとき、x+yはいくつですか？",
+    "choices": [
+      "17",
+      "16",
+      "0",
+      "64"
+    ],
+    "answer": 1,
+    "explanation": "x+y=8+8=16です。"
+  },
+  {
+    "id": "Q08030",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "平方根の準備",
+    "difficulty": "基礎",
+    "question": "7² はいくつですか？",
+    "choices": [
+      "49",
+      "14",
+      "50",
+      "42"
+    ],
+    "answer": 0,
+    "explanation": "7²は7×7なので、49です。"
+  },
+  {
+    "id": "Q08031",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=5x-5 で、x=-3 のとき yはいくつですか？",
+    "choices": [
+      "-25",
+      "20",
+      "-19",
+      "-20"
+    ],
+    "answer": 3,
+    "explanation": "x=-3を代入すると、y=5×(-3)-5=-20です。"
+  },
+  {
+    "id": "Q08032",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=7x-3 で、x=3 のとき yはいくつですか？",
+    "choices": [
+      "18",
+      "-18",
+      "19",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "x=3を代入すると、y=7×(3)-3=18です。"
+  },
+  {
+    "id": "Q08033",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=10、y=1 のとき、2x + y の値はいくつですか？",
+    "choices": [
+      "20",
+      "22",
+      "3",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "2×10+1=21です。"
+  },
+  {
+    "id": "Q08034",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=2、y=6 のとき、8x + y の値はいくつですか？",
+    "choices": [
+      "22",
+      "14",
+      "21",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "8×2+6=22です。"
+  },
+  {
+    "id": "Q08035",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=2、y=9 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "11",
+      "86",
+      "85",
+      "84"
+    ],
+    "answer": 2,
+    "explanation": "2²+9²=4+81=85です。"
+  },
+  {
+    "id": "Q08036",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=4、y=9 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "97",
+      "98",
+      "13",
+      "96"
+    ],
+    "answer": 0,
+    "explanation": "4²+9²=16+81=97です。"
+  },
+  {
+    "id": "Q08037",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "標準",
+    "question": "1から7までの整数から1つを選びます。偶数が出る確率はどれですか？",
+    "choices": [
+      "3/7",
+      "7/7",
+      "1/7",
+      "4/7"
+    ],
+    "answer": 0,
+    "explanation": "偶数は3個なので、確率は3/7です。"
+  },
+  {
+    "id": "Q08038",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "図形",
+    "difficulty": "標準",
+    "question": "平行四辺形の底辺が7 cm、高さが7 cmです。面積は何cm²ですか？",
+    "choices": [
+      "42",
+      "49",
+      "56",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "平行四辺形の面積=底辺×高さ=7×7=49 cm²です。"
+  },
+  {
+    "id": "Q08039",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=3、y=8 のとき、x+yはいくつですか？",
+    "choices": [
+      "12",
+      "5",
+      "11",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "x+y=3+8=11です。"
+  },
+  {
+    "id": "Q08040",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "平方根の準備",
+    "difficulty": "標準",
+    "question": "2² はいくつですか？",
+    "choices": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "2²は2×2なので、4です。"
+  },
+  {
+    "id": "Q08041",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=5x+8 で、x=6 のとき yはいくつですか？",
+    "choices": [
+      "-38",
+      "39",
+      "33",
+      "38"
+    ],
+    "answer": 3,
+    "explanation": "x=6を代入すると、y=5×(6)+8=38です。"
+  },
+  {
+    "id": "Q08042",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "基礎",
+    "question": "y=2x-3 で、x=1 のとき yはいくつですか？",
+    "choices": [
+      "-1",
+      "1",
+      "-3",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "x=1を代入すると、y=2×(1)-3=-1です。"
+  },
+  {
+    "id": "Q08043",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=8、y=6 のとき、6x + y の値はいくつですか？",
+    "choices": [
+      "53",
+      "55",
+      "54",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "6×8+6=54です。"
+  },
+  {
+    "id": "Q08044",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=2、y=6 のとき、4x + y の値はいくつですか？",
+    "choices": [
+      "13",
+      "10",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "4×2+6=14です。"
+  },
+  {
+    "id": "Q08045",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=7、y=5 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "12",
+      "75",
+      "73",
+      "74"
+    ],
+    "answer": 3,
+    "explanation": "7²+5²=49+25=74です。"
+  },
+  {
+    "id": "Q08046",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "基礎",
+    "question": "x=4、y=2 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "20",
+      "19",
+      "6",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "4²+2²=16+4=20です。"
+  },
+  {
+    "id": "Q08047",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "1から3までの整数から1つを選びます。偶数が出る確率はどれですか？",
+    "choices": [
+      "2/3",
+      "1/3（別の値1）",
+      "1/3",
+      "3/3"
+    ],
+    "answer": 2,
+    "explanation": "偶数は1個なので、確率は1/3です。"
+  },
+  {
+    "id": "Q08048",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "図形",
+    "difficulty": "基礎",
+    "question": "平行四辺形の底辺が10 cm、高さが9 cmです。面積は何cm²ですか？",
+    "choices": [
+      "100",
+      "81",
+      "90",
+      "19"
+    ],
+    "answer": 2,
+    "explanation": "平行四辺形の面積=底辺×高さ=10×9=90 cm²です。"
+  },
+  {
+    "id": "Q08049",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "基礎",
+    "question": "x=2、y=3 のとき、x+yはいくつですか？",
+    "choices": [
+      "5",
+      "6",
+      "1",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "x+y=2+3=5です。"
+  },
+  {
+    "id": "Q08050",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "平方根の準備",
+    "difficulty": "基礎",
+    "question": "10² はいくつですか？",
+    "choices": [
+      "101",
+      "90",
+      "100",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "10²は10×10なので、100です。"
+  },
+  {
+    "id": "Q08051",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=6x-2 で、x=-4 のとき yはいくつですか？",
+    "choices": [
+      "26",
+      "-26",
+      "-25",
+      "-32"
+    ],
+    "answer": 1,
+    "explanation": "x=-4を代入すると、y=6×(-4)-2=-26です。"
+  },
+  {
+    "id": "Q08052",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "標準",
+    "question": "y=6x+0 で、x=4 のとき yはいくつですか？",
+    "choices": [
+      "18",
+      "24",
+      "25",
+      "-24"
+    ],
+    "answer": 1,
+    "explanation": "x=4を代入すると、y=6×(4)+0=24です。"
+  },
+  {
+    "id": "Q08053",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=3、y=8 のとき、6x + y の値はいくつですか？",
+    "choices": [
+      "27",
+      "26",
+      "14",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "6×3+8=26です。"
+  },
+  {
+    "id": "Q08054",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "標準",
+    "question": "x=2、y=1 のとき、6x + y の値はいくつですか？",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "6×2+1=13です。"
+  },
+  {
+    "id": "Q08055",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=5、y=9 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "107",
+      "106",
+      "105",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "5²+9²=25+81=106です。"
+  },
+  {
+    "id": "Q08056",
+    "grade": "中学2年生",
+    "subject": "数学",
+    "unit": "多項式",
+    "difficulty": "標準",
+    "question": "x=3、y=5 のとき、x² + y² の値はいくつですか？",
+    "choices": [
+      "34",
+      "33",
+      "8",
+      "35"
+    ],
+    "answer": 0,
+    "explanation": "3²+5²=9+25=34です。"
+  },
+  {
+    "id": "Q09001",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=5x²+4 で、x=-3 のとき yはいくつですか？",
+    "choices": [
+      "50",
+      "49",
+      "-49",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "x=-3を代入すると、y=5×(-3)²+4=49です。"
+  },
+  {
+    "id": "Q09002",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=3x²-5 で、x=-4 のとき yはいくつですか？",
+    "choices": [
+      "-43",
+      "44",
+      "43",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "x=-4を代入すると、y=3×(-4)²-5=43です。"
+  },
+  {
+    "id": "Q09003",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√36 の値はいくつですか？",
+    "choices": [
+      "5",
+      "36",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "6×6=36なので、√36=6です。"
+  },
+  {
+    "id": "Q09004",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√81 の値はいくつですか？",
+    "choices": [
+      "9",
+      "10",
+      "81",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "9×9=81なので、√81=9です。"
+  },
+  {
+    "id": "Q09005",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が4 cmと9 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "98",
+      "96",
+      "97",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "三平方の定理より、斜辺²=4²+9²=16+81=97です。"
+  },
+  {
+    "id": "Q09006",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が9 cmと9 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "163",
+      "18",
+      "161",
+      "162"
+    ],
+    "answer": 3,
+    "explanation": "三平方の定理より、斜辺²=9²+9²=81+81=162です。"
+  },
+  {
+    "id": "Q09007",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "相似",
+    "difficulty": "基礎",
+    "question": "相似な図形で、対応する辺の比が1:3です。小さい図形の辺が5 cmなら、大きい図形の対応する辺は何cmですか？",
+    "choices": [
+      "8",
+      "15",
+      "16",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "拡大率は3倍なので、5×3=15 cmです。"
+  },
+  {
+    "id": "Q09008",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "2人から2人を選ぶ組み合わせは何通りですか？",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "組み合わせは2×(2-1)÷2=1通りです。"
+  },
+  {
+    "id": "Q09009",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径6 cmの円の面積は何cm²ですか？（円周率はπ）",
+    "choices": [
+      "72π cm²",
+      "12π cm²",
+      "36π cm²",
+      "6π cm²"
+    ],
+    "answer": 2,
+    "explanation": "円の面積=半径×半径×πなので、6×6×π=36π cm²です。"
+  },
+  {
+    "id": "Q09010",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次方程式",
+    "difficulty": "基礎",
+    "question": "x²=16 の解のうち、正の解はいくつですか？",
+    "choices": [
+      "-4",
+      "5",
+      "16",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "x²=16よりx=±4です。正の解は4です。"
+  },
+  {
+    "id": "Q09011",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=7x²+8 で、x=0 のとき yはいくつですか？",
+    "choices": [
+      "-8",
+      "1",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "x=0を代入すると、y=7×(0)²+8=8です。"
+  },
+  {
+    "id": "Q09012",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=4x²+4 で、x=0 のとき yはいくつですか？",
+    "choices": [
+      "4",
+      "5",
+      "-4",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "x=0を代入すると、y=4×(0)²+4=4です。"
+  },
+  {
+    "id": "Q09013",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "標準",
+    "question": "√144 の値はいくつですか？",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "144"
+    ],
+    "answer": 1,
+    "explanation": "12×12=144なので、√144=12です。"
+  },
+  {
+    "id": "Q09014",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "標準",
+    "question": "√64 の値はいくつですか？",
+    "choices": [
+      "7",
+      "64",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "8×8=64なので、√64=8です。"
+  },
+  {
+    "id": "Q09015",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "標準",
+    "question": "直角三角形の直角をはさむ2辺が11 cmと4 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "136",
+      "15",
+      "137",
+      "138"
+    ],
+    "answer": 2,
+    "explanation": "三平方の定理より、斜辺²=11²+4²=121+16=137です。"
+  },
+  {
+    "id": "Q09016",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "標準",
+    "question": "直角三角形の直角をはさむ2辺が11 cmと11 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "22",
+      "241",
+      "242",
+      "243"
+    ],
+    "answer": 2,
+    "explanation": "三平方の定理より、斜辺²=11²+11²=121+121=242です。"
+  },
+  {
+    "id": "Q09017",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "相似",
+    "difficulty": "標準",
+    "question": "相似な図形で、対応する辺の比が1:8です。小さい図形の辺が5 cmなら、大きい図形の対応する辺は何cmですか？",
+    "choices": [
+      "41",
+      "40",
+      "13",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "拡大率は8倍なので、5×8=40 cmです。"
+  },
+  {
+    "id": "Q09018",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "標準",
+    "question": "6人から2人を選ぶ組み合わせは何通りですか？",
+    "choices": [
+      "30",
+      "7",
+      "6",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "組み合わせは6×(6-1)÷2=15通りです。"
+  },
+  {
+    "id": "Q09019",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "円",
+    "difficulty": "標準",
+    "question": "半径10 cmの円の面積は何cm²ですか？（円周率はπ）",
+    "choices": [
+      "10π cm²",
+      "200π cm²",
+      "20π cm²",
+      "100π cm²"
+    ],
+    "answer": 3,
+    "explanation": "円の面積=半径×半径×πなので、10×10×π=100π cm²です。"
+  },
+  {
+    "id": "Q09020",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次方程式",
+    "difficulty": "標準",
+    "question": "x²=36 の解のうち、正の解はいくつですか？",
+    "choices": [
+      "36",
+      "-6",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "x²=36よりx=±6です。正の解は6です。"
+  },
+  {
+    "id": "Q09021",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=1x²-1 で、x=-5 のとき yはいくつですか？",
+    "choices": [
+      "24",
+      "-24",
+      "25",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "x=-5を代入すると、y=1×(-5)²-1=24です。"
+  },
+  {
+    "id": "Q09022",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=4x²-4 で、x=-3 のとき yはいくつですか？",
+    "choices": [
+      "32",
+      "28",
+      "33",
+      "-32"
+    ],
+    "answer": 0,
+    "explanation": "x=-3を代入すると、y=4×(-3)²-4=32です。"
+  },
+  {
+    "id": "Q09023",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√121 の値はいくつですか？",
+    "choices": [
+      "121",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "11×11=121なので、√121=11です。"
+  },
+  {
+    "id": "Q09024",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√121 の値はいくつですか？",
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "121"
+    ],
+    "answer": 2,
+    "explanation": "11×11=121なので、√121=11です。"
+  },
+  {
+    "id": "Q09025",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が10 cmと4 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "115",
+      "117",
+      "14",
+      "116"
+    ],
+    "answer": 3,
+    "explanation": "三平方の定理より、斜辺²=10²+4²=100+16=116です。"
+  },
+  {
+    "id": "Q09026",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が11 cmと7 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "18",
+      "170",
+      "171",
+      "169"
+    ],
+    "answer": 1,
+    "explanation": "三平方の定理より、斜辺²=11²+7²=121+49=170です。"
+  },
+  {
+    "id": "Q09027",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "相似",
+    "difficulty": "基礎",
+    "question": "相似な図形で、対応する辺の比が1:8です。小さい図形の辺が6 cmなら、大きい図形の対応する辺は何cmですか？",
+    "choices": [
+      "48",
+      "49",
+      "40",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "拡大率は8倍なので、6×8=48 cmです。"
+  },
+  {
+    "id": "Q09028",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "4人から2人を選ぶ組み合わせは何通りですか？",
+    "choices": [
+      "12",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "組み合わせは4×(4-1)÷2=6通りです。"
+  },
+  {
+    "id": "Q09029",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径5 cmの円の面積は何cm²ですか？（円周率はπ）",
+    "choices": [
+      "10π cm²",
+      "25π cm²",
+      "50π cm²",
+      "5π cm²"
+    ],
+    "answer": 1,
+    "explanation": "円の面積=半径×半径×πなので、5×5×π=25π cm²です。"
+  },
+  {
+    "id": "Q09030",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次方程式",
+    "difficulty": "基礎",
+    "question": "x²=36 の解のうち、正の解はいくつですか？",
+    "choices": [
+      "7",
+      "-6",
+      "6",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "x²=36よりx=±6です。正の解は6です。"
+  },
+  {
+    "id": "Q09031",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=3x²+4 で、x=-5 のとき yはいくつですか？",
+    "choices": [
+      "79",
+      "-79",
+      "80",
+      "76"
+    ],
+    "answer": 0,
+    "explanation": "x=-5を代入すると、y=3×(-5)²+4=79です。"
+  },
+  {
+    "id": "Q09032",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=7x²+8 で、x=1 のとき yはいくつですか？",
+    "choices": [
+      "16",
+      "8",
+      "-15",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "x=1を代入すると、y=7×(1)²+8=15です。"
+  },
+  {
+    "id": "Q09033",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "標準",
+    "question": "√4 の値はいくつですか？",
+    "choices": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "2×2=4なので、√4=2です。"
+  },
+  {
+    "id": "Q09034",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "標準",
+    "question": "√100 の値はいくつですか？",
+    "choices": [
+      "100",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "10×10=100なので、√100=10です。"
+  },
+  {
+    "id": "Q09035",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "標準",
+    "question": "直角三角形の直角をはさむ2辺が8 cmと5 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "89",
+      "88",
+      "90",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "三平方の定理より、斜辺²=8²+5²=64+25=89です。"
+  },
+  {
+    "id": "Q09036",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "標準",
+    "question": "直角三角形の直角をはさむ2辺が7 cmと11 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "171",
+      "169",
+      "18",
+      "170"
+    ],
+    "answer": 3,
+    "explanation": "三平方の定理より、斜辺²=7²+11²=49+121=170です。"
+  },
+  {
+    "id": "Q09037",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "相似",
+    "difficulty": "標準",
+    "question": "相似な図形で、対応する辺の比が1:6です。小さい図形の辺が3 cmなら、大きい図形の対応する辺は何cmですか？",
+    "choices": [
+      "19",
+      "18",
+      "9",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "拡大率は6倍なので、3×6=18 cmです。"
+  },
+  {
+    "id": "Q09038",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "標準",
+    "question": "5人から2人を選ぶ組み合わせは何通りですか？",
+    "choices": [
+      "10",
+      "6",
+      "20",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "組み合わせは5×(5-1)÷2=10通りです。"
+  },
+  {
+    "id": "Q09039",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "円",
+    "difficulty": "標準",
+    "question": "半径5 cmの円の面積は何cm²ですか？（円周率はπ）",
+    "choices": [
+      "25π cm²",
+      "50π cm²",
+      "10π cm²",
+      "5π cm²"
+    ],
+    "answer": 0,
+    "explanation": "円の面積=半径×半径×πなので、5×5×π=25π cm²です。"
+  },
+  {
+    "id": "Q09040",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次方程式",
+    "difficulty": "標準",
+    "question": "x²=4 の解のうち、正の解はいくつですか？",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "-2"
+    ],
+    "answer": 0,
+    "explanation": "x²=4よりx=±2です。正の解は2です。"
+  },
+  {
+    "id": "Q09041",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=4x²-3 で、x=5 のとき yはいくつですか？",
+    "choices": [
+      "97",
+      "-97",
+      "93",
+      "98"
+    ],
+    "answer": 0,
+    "explanation": "x=5を代入すると、y=4×(5)²-3=97です。"
+  },
+  {
+    "id": "Q09042",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "基礎",
+    "question": "y=7x²-5 で、x=3 のとき yはいくつですか？",
+    "choices": [
+      "51",
+      "-58",
+      "59",
+      "58"
+    ],
+    "answer": 3,
+    "explanation": "x=3を代入すると、y=7×(3)²-5=58です。"
+  },
+  {
+    "id": "Q09043",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√121 の値はいくつですか？",
+    "choices": [
+      "121",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "11×11=121なので、√121=11です。"
+  },
+  {
+    "id": "Q09044",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "平方根",
+    "difficulty": "基礎",
+    "question": "√4 の値はいくつですか？",
+    "choices": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "2×2=4なので、√4=2です。"
+  },
+  {
+    "id": "Q09045",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が11 cmと3 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "131",
+      "14",
+      "129",
+      "130"
+    ],
+    "answer": 3,
+    "explanation": "三平方の定理より、斜辺²=11²+3²=121+9=130です。"
+  },
+  {
+    "id": "Q09046",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "三平方の定理",
+    "difficulty": "基礎",
+    "question": "直角三角形の直角をはさむ2辺が8 cmと9 cmです。斜辺の長さの2乗はいくつですか？",
+    "choices": [
+      "17",
+      "146",
+      "144",
+      "145"
+    ],
+    "answer": 3,
+    "explanation": "三平方の定理より、斜辺²=8²+9²=64+81=145です。"
+  },
+  {
+    "id": "Q09047",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "相似",
+    "difficulty": "基礎",
+    "question": "相似な図形で、対応する辺の比が1:8です。小さい図形の辺が8 cmなら、大きい図形の対応する辺は何cmですか？",
+    "choices": [
+      "65",
+      "16",
+      "64",
+      "56"
+    ],
+    "answer": 2,
+    "explanation": "拡大率は8倍なので、8×8=64 cmです。"
+  },
+  {
+    "id": "Q09048",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "基礎",
+    "question": "5人から2人を選ぶ組み合わせは何通りですか？",
+    "choices": [
+      "20",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "組み合わせは5×(5-1)÷2=10通りです。"
+  },
+  {
+    "id": "Q09049",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "円",
+    "difficulty": "基礎",
+    "question": "半径5 cmの円の面積は何cm²ですか？（円周率はπ）",
+    "choices": [
+      "25π cm²",
+      "5π cm²",
+      "10π cm²",
+      "50π cm²"
+    ],
+    "answer": 0,
+    "explanation": "円の面積=半径×半径×πなので、5×5×π=25π cm²です。"
+  },
+  {
+    "id": "Q09050",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次方程式",
+    "difficulty": "基礎",
+    "question": "x²=49 の解のうち、正の解はいくつですか？",
+    "choices": [
+      "7",
+      "-7",
+      "8",
+      "49"
+    ],
+    "answer": 0,
+    "explanation": "x²=49よりx=±7です。正の解は7です。"
+  },
+  {
+    "id": "Q09051",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=6x²-3 で、x=1 のとき yはいくつですか？",
+    "choices": [
+      "-3",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "x=1を代入すると、y=6×(1)²-3=3です。"
+  },
+  {
+    "id": "Q09052",
+    "grade": "中学3年生",
+    "subject": "数学",
+    "unit": "二次関数",
+    "difficulty": "標準",
+    "question": "y=7x²-5 で、x=-4 のとき yはいくつですか？",
+    "choices": [
+      "-107",
+      "108",
+      "107",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "x=-4を代入すると、y=7×(-4)²-5=107です。"
+  }
+]
